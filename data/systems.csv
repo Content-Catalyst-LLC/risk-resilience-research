@@ -1,0 +1,11 @@
+system_key,system_name,system_type,critical_functions
+water_systems,Water Systems,ecological_infrastructure,"drinking water sanitation irrigation flood regulation"
+energy_grid,Energy Grid,infrastructure,"electricity heating cooling communications water pumping"
+food_systems,Food Systems,social_ecological,"production processing distribution nutrition livelihoods"
+health_systems,Health Systems,social_infrastructure,"care delivery disease surveillance emergency response"
+transport_networks,Transport Networks,infrastructure,"mobility logistics evacuation supply chains"
+financial_systems,Financial Systems,economic,"credit payments savings insurance public finance"
+public_administration,Public Administration,institutional,"coordination service delivery emergency management legitimacy"
+digital_infrastructure,Digital Infrastructure,technology,"communications data services logistics governance finance"
+ecosystems,Ecosystems,ecological,"life-support functions biodiversity regulation buffering"
+supply_chains,Supply Chains,economic_infrastructure,"material flows production distribution inventories"

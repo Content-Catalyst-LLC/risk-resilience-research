@@ -1,0 +1,11 @@
+indicator_key,indicator_name,indicator_family,measurement_note,warning
+redundancy_ratio,Redundancy Ratio,capacity,"Backup capacity relative to critical demand.","May miss quality and accessibility of backup systems."
+recovery_time,Recovery Time,response,"Time required to restore essential function after disruption.","Can hide unequal recovery across groups."
+service_continuity,Service Continuity,function,"Share of essential service maintained during stress.","Requires clear definition of essential service."
+exposure_index,Exposure Index,exposure,"Population assets or systems exposed to hazards.","Exposure does not equal vulnerability."
+vulnerability_index,Vulnerability Index,vulnerability,"Composite measure of sensitivity and limited capacity.","Can obscure local context and power."
+adaptive_capacity_score,Adaptive Capacity Score,capacity,"Institutional social technical and financial capacity to adapt.","Difficult to compare across scales."
+dependency_count,Dependency Count,system_structure,"Number of critical dependencies for a system or function.","Does not measure dependency strength."
+early_warning_coverage,Early Warning Coverage,monitoring,"Share of population or system covered by warning systems.","Coverage does not guarantee trust or action."
+maintenance_gap,Maintenance Gap,infrastructure,"Difference between required and actual maintenance investment.","Often underreported."
+social_trust_proxy,Social Trust Proxy,social,"Proxy measure for trust legitimacy and cooperation.","Proxy may be culturally or politically weak."

@@ -1,0 +1,7 @@
+scenario_key,scenario_name,primary_hazard,linked_systems,analysis_use
+compound_heat_grid_failure,Compound Heat and Grid Failure,heat_extreme,"energy_grid health_systems water_systems public_administration","Stress test cooling health water and emergency response."
+drought_food_price_shock,Drought and Food Price Shock,drought,"food_systems financial_systems public_administration","Analyze agricultural disruption food inflation and social protection."
+flood_transport_health_disruption,Flood Transport and Health Disruption,flood,"transport_networks health_systems water_systems","Analyze service continuity and evacuation constraints."
+cyber_logistics_disruption,Cyberattack on Logistics Infrastructure,cyberattack,"digital_infrastructure supply_chains food_systems health_systems","Assess digital dependency and supply chain resilience."
+financial_austerity_public_resilience,Financial Shock and Public Resilience Erosion,financial_shock,"financial_systems public_administration health_systems infrastructure","Assess debt austerity maintenance and public capacity."
+conflict_displacement_service_collapse,Conflict Displacement and Service Collapse,conflict,"public_administration health_systems food_systems water_systems","Assess displacement humanitarian access and institutional breakdown."

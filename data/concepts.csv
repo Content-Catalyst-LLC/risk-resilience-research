@@ -1,0 +1,13 @@
+concept_key,concept_name,concept_family,definition_note
+risk,Risk,foundational,"Potential for adverse consequences produced by hazard exposure vulnerability and context."
+uncertainty,Uncertainty,foundational,"Limits to knowledge about future conditions probabilities impacts or system behavior."
+hazard,Hazard,foundational,"Potential source of harm such as flood heat fire cyberattack disease conflict or financial stress."
+exposure,Exposure,vulnerability,"People assets ecosystems or systems located in places or relationships where hazards can affect them."
+vulnerability,Vulnerability,vulnerability,"Propensity to be adversely affected because of sensitivity limited capacity or structural disadvantage."
+adaptive_capacity,Adaptive Capacity,resilience,"Ability of a system community or institution to adjust learn reorganize and respond to change."
+robustness,Robustness,resilience,"Ability to withstand stress without significant functional degradation."
+redundancy,Redundancy,design,"Availability of spare capacity backup pathways or overlapping functions."
+modularity,Modularity,design,"System structure that limits propagation by separating components while preserving connectivity."
+cascading_failure,Cascading Failure,failure_dynamics,"Failure that propagates through interdependent systems."
+resilience_trap,Resilience Trap,critical,"Persistence of a system that remains stable but unjust maladaptive or ecologically damaging."
+transformation,Transformation,resilience,"Structural change when adaptation within existing arrangements is insufficient."

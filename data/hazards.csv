@@ -1,0 +1,13 @@
+hazard_key,hazard_name,hazard_group,typical_systems_affected
+heat_extreme,Extreme Heat,climate,"health energy labor agriculture cities"
+flood,Flooding,climate_hydrology,"housing transport water sanitation infrastructure"
+drought,Drought,climate_hydrology,"agriculture water energy ecosystems"
+wildfire,Wildfire,climate_ecology,"forests housing air quality health grids"
+crop_failure,Crop Failure,food_systems,"food prices nutrition trade livelihoods"
+grid_failure,Grid Failure,infrastructure,"energy hospitals communications water"
+cyberattack,Cyberattack,digital,"finance logistics public administration health infrastructure"
+pandemic,Epidemic or Pandemic,health,"health systems labor supply chains public trust"
+financial_shock,Financial Shock,economic,"credit employment public budgets debt"
+conflict,Conflict and Political Violence,governance,"infrastructure displacement food health institutions"
+supply_disruption,Supply Chain Disruption,economic_infrastructure,"industry health food energy logistics"
+institutional_failure,Institutional Failure,governance,"public services legitimacy coordination emergency response"

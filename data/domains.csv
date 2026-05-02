@@ -1,0 +1,9 @@
+domain_key,domain_name,description,priority
+foundations,Foundations of Risk and Resilience,"Core concepts: risk uncertainty vulnerability exposure resilience robustness adaptation recovery and transformation.",1
+failure_dynamics,Systems Thinking and Failure Dynamics,"Feedback loops cascading failure tight coupling thresholds lock-in adaptive cycles and panarchy.",1
+environment_climate,Environmental and Climate Risk,"Climate hydrology food energy biodiversity planetary boundaries and environmental monitoring.",1
+social_fragility,Development Inequality and Social Fragility,"Poverty inequality urbanization public health migration conflict community resilience and justice.",1
+infrastructure_technology,Infrastructure Technology and Critical Systems,"Critical infrastructure cyber risk supply chains hospitals maintenance digital twins and automated systems.",1
+governance_strategy,Institutions Governance and Strategy,"Risk governance adaptive governance early warning scenario planning public institutions and coordination.",1
+measurement_modeling,Measurement Modeling and Design,"Indicators metrics stress testing digital twins AI systems scenario matrices and models.",1
+future_directions,Future Directions,"Polycrisis regenerative resilience AI automation justice and transformation.",2
