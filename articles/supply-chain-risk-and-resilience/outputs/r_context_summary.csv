@@ -1,0 +1,9 @@
+supply_context,items,mean_criticality,mean_supplier_concentration,mean_logistics_exposure,mean_buffer_capacity,mean_continuity_gap
+grid_component_dependency,1,0.96,0.86,0.64,0.24960000000000002,1.4924628393984003
+medicine_shortage,1,0.96,0.82,0.62,0.2964,1.38562529882112
+semiconductor_dependency,1,0.9,0.84,0.58,0.3028,1.2775606734848002
+water_utility_inputs,1,0.94,0.74,0.7,0.3456,1.2584478357094397
+emergency_procurement,1,0.92,0.7,0.66,0.3640000000000001,1.1695402496256
+agricultural_input_concentration,1,0.88,0.76,0.68,0.3628,1.0970284214272001
+cold_chain_logistics,1,0.86,0.58,0.82,0.4452,0.9791911741644799
+construction_materials,1,0.78,0.62,0.72,0.4896,0.72286207420416

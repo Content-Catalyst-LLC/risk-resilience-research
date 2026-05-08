@@ -1,0 +1,9 @@
+item_id,item_name,sector,supply_context,criticality,supplier_concentration,dependency_intensity,logistics_exposure,cyber_digital_risk,workforce_vulnerability,climate_hazard_exposure,inventory_buffer,substitutability,supplier_redundancy,modular_production_capacity,governance_capacity,logistics_flexibility,recovery_time_pressure,vulnerable_population_exposure,essential_service_relevance
+SCR001,Generic injectable medicine,Health,medicine_shortage,0.96,0.82,0.78,0.62,0.52,0.56,0.40,0.28,0.24,0.26,0.30,0.44,0.34,0.84,0.86,0.96
+SCR002,Water treatment chemicals,Water,water_utility_inputs,0.94,0.74,0.82,0.70,0.42,0.44,0.56,0.34,0.28,0.32,0.36,0.46,0.38,0.78,0.82,0.96
+SCR003,Grid transformers and critical spares,Energy,grid_component_dependency,0.96,0.86,0.88,0.64,0.54,0.40,0.52,0.22,0.18,0.20,0.28,0.42,0.30,0.90,0.76,0.94
+SCR004,Fertilizer inputs,Food Systems,agricultural_input_concentration,0.88,0.76,0.72,0.68,0.34,0.48,0.60,0.36,0.30,0.34,0.38,0.44,0.42,0.70,0.78,0.88
+SCR005,Semiconductor components,Digital Infrastructure,semiconductor_dependency,0.90,0.84,0.82,0.58,0.66,0.36,0.42,0.30,0.22,0.24,0.32,0.48,0.36,0.86,0.62,0.84
+SCR006,Food cold-chain logistics,Food Systems,cold_chain_logistics,0.86,0.58,0.66,0.82,0.58,0.64,0.68,0.42,0.46,0.44,0.48,0.50,0.36,0.62,0.82,0.88
+SCR007,Construction materials for public infrastructure,Infrastructure,construction_materials,0.78,0.62,0.64,0.72,0.36,0.54,0.50,0.48,0.52,0.46,0.54,0.48,0.44,0.58,0.54,0.70
+SCR008,Emergency response equipment,Emergency Services,emergency_procurement,0.92,0.70,0.74,0.66,0.48,0.50,0.44,0.32,0.34,0.30,0.38,0.54,0.40,0.76,0.84,0.94
