@@ -1,0 +1,9 @@
+system_id,system_name,region,water_stress_type,drought_pressure,flood_exposure,water_demand_pressure,water_availability,infrastructure_reliability,water_quality,ecosystem_buffer_condition,governance_capacity,social_protection_capacity,livelihood_water_dependency,critical_service_dependence,inequality_pressure,recovery_capacity,maintenance_deficit,pollution_pressure
+WSR001,Drought-stressed agricultural basin,Sub-Saharan Africa,drought_scarcity,0.88,0.42,0.84,0.34,0.42,0.48,0.36,0.40,0.34,0.86,0.72,0.82,0.36,0.70,0.58
+WSR002,Urban flood and drainage district,South Asia,flood_urban,0.44,0.88,0.72,0.56,0.38,0.44,0.34,0.42,0.36,0.62,0.84,0.78,0.34,0.76,0.66
+WSR003,Groundwater depletion corridor,North America,groundwater_depletion,0.76,0.38,0.86,0.32,0.58,0.54,0.42,0.52,0.46,0.74,0.68,0.58,0.48,0.64,0.46
+WSR004,Coastal flood and salinity region,Small Islands,coastal_flood_salinity,0.62,0.86,0.74,0.44,0.46,0.36,0.40,0.42,0.36,0.68,0.82,0.80,0.36,0.72,0.70
+WSR005,Restored watershed and floodplain city,Europe,watershed_restoration,0.42,0.46,0.48,0.74,0.74,0.76,0.82,0.76,0.70,0.38,0.48,0.34,0.72,0.34,0.30
+WSR006,Water-service fragility settlement,Latin America,service_fragility,0.68,0.70,0.78,0.46,0.36,0.40,0.38,0.38,0.34,0.76,0.80,0.74,0.36,0.78,0.64
+WSR007,Food-water-energy stress region,South Asia,food_water_energy,0.82,0.58,0.88,0.38,0.44,0.48,0.36,0.44,0.38,0.84,0.86,0.76,0.38,0.72,0.56
+WSR008,Climate-resilient water corridor,South America,integrated_resilience,0.46,0.48,0.52,0.70,0.72,0.74,0.78,0.74,0.72,0.42,0.52,0.40,0.70,0.36,0.34
