@@ -1,0 +1,49 @@
+system_id,system_name,region,health_risk_context,metric,value
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,public_health_threat_pressure,0.9934848000000001
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,public_health_resilience_capacity,0.3064
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,systemic_health_risk,1.2512876709181688
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,continuity_gap,0.6000000000000001
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,trust_adjusted_response_capacity,0.3562120000000001
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,public_health_resilience_gap,1.495075670918169
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,public_health_threat_pressure,0.9252224
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,public_health_resilience_capacity,0.41559999999999997
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,systemic_health_risk,1.0725589244438118
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,continuity_gap,0.45999999999999996
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,trust_adjusted_response_capacity,0.500416
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,public_health_resilience_gap,1.0321429244438118
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,public_health_threat_pressure,0.8438976
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,public_health_resilience_capacity,0.5008
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,systemic_health_risk,0.9094475948610125
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,continuity_gap,0.33999999999999997
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,trust_adjusted_response_capacity,0.6192040000000001
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,public_health_resilience_gap,0.6302435948610123
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,public_health_threat_pressure,0.6506080000000001
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,public_health_resilience_capacity,0.48000000000000004
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,systemic_health_risk,0.686299490872576
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,continuity_gap,0.27999999999999997
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,trust_adjusted_response_capacity,0.6244712
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,public_health_resilience_gap,0.34182829087257594
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,public_health_threat_pressure,0.7295808
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,public_health_resilience_capacity,0.5416000000000001
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,systemic_health_risk,0.754958459314725
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,continuity_gap,0.21999999999999997
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,trust_adjusted_response_capacity,0.671528
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,public_health_resilience_gap,0.303430459314725
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,public_health_threat_pressure,0.602448
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,public_health_resilience_capacity,0.5536
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,systemic_health_risk,0.6346000500109671
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,continuity_gap,0.19999999999999996
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,trust_adjusted_response_capacity,0.7061408
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,public_health_resilience_gap,0.12845925001096703
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,public_health_threat_pressure,0.42854400000000004
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,public_health_resilience_capacity,0.7575999999999999
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,systemic_health_risk,0.3302782151556096
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,continuity_gap,0
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,trust_adjusted_response_capacity,0.9604980000000001
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,public_health_resilience_gap,0
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,public_health_threat_pressure,0.3793664
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,public_health_resilience_capacity,0.7096
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,systemic_health_risk,0.30749246600674196
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,continuity_gap,0
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,trust_adjusted_response_capacity,0.8788528
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,public_health_resilience_gap,0

@@ -1,0 +1,9 @@
+system_id,system_name,region,health_risk_context,health_hazard_pressure,exposure,social_health_vulnerability,surveillance_capacity,prevention_capacity,essential_service_continuity,workforce_capacity,supply_chain_reliability,public_trust,communication_capacity,recovery_capacity,inequality_pressure,essential_service_demand,repeated_health_disruption_pressure
+PHR001,Urban heat and chronic disease district,North America,heat_chronic_disease,0.84,0.78,0.72,0.58,0.54,0.48,0.46,0.50,0.44,0.52,0.46,0.74,0.82,0.70
+PHR002,Flood-exposed waterborne disease region,South Asia,flood_waterborne_disease,0.86,0.82,0.78,0.46,0.44,0.40,0.42,0.38,0.40,0.44,0.36,0.80,0.86,0.76
+PHR003,Wildfire smoke respiratory risk corridor,North America,wildfire_smoke_respiratory,0.78,0.74,0.66,0.62,0.58,0.54,0.50,0.52,0.48,0.56,0.50,0.70,0.76,0.66
+PHR004,Fragile conflict-affected health system,Middle East and North Africa,conflict_health_fragility,0.88,0.84,0.86,0.34,0.32,0.30,0.28,0.30,0.30,0.32,0.28,0.84,0.90,0.86
+PHR005,Primary-care resilient city network,Europe,integrated_primary_care,0.56,0.58,0.42,0.76,0.74,0.72,0.70,0.68,0.66,0.70,0.68,0.38,0.52,0.34
+PHR006,Supply-chain constrained island health system,Small Islands,supply_chain_health_security,0.74,0.70,0.64,0.56,0.52,0.46,0.48,0.30,0.52,0.54,0.44,0.66,0.74,0.62
+PHR007,Community health worker resilience system,Sub-Saharan Africa,community_health_outreach,0.70,0.66,0.76,0.50,0.62,0.52,0.58,0.44,0.64,0.66,0.50,0.78,0.72,0.68
+PHR008,High-capacity surveillance and laboratory system,East Asia,surveillance_laboratory_strength,0.62,0.60,0.38,0.84,0.78,0.76,0.74,0.72,0.70,0.76,0.72,0.34,0.54,0.30
