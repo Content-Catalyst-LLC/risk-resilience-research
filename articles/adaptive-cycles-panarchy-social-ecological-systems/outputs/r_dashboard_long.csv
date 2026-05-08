@@ -1,0 +1,65 @@
+system_id,system_name,scale_level,domain,region,adaptive_phase,metric,value
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,conservation_rigidity_index,0.7776000000000001
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,release_risk_index,0.797824
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,reorganization_potential_index,0.3904
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,remember_capacity,0.4128
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,revolt_cascade_pressure,1.52262711936
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,resilience_trap_index,0.736032
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,transformation_readiness,0.372512
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,justice_weighted_reorganization_gap,0.8449717587078658
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,conservation_rigidity_index,0.8392000000000001
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,release_risk_index,0.8242079999999999
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,reorganization_potential_index,0.39999999999999997
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,remember_capacity,0.49200000000000005
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,revolt_cascade_pressure,1.6304166683999999
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,resilience_trap_index,0.760944
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,transformation_readiness,0.3888
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,justice_weighted_reorganization_gap,0.8260600897213437
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,conservation_rigidity_index,0.808
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,release_risk_index,0.7695200000000001
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,reorganization_potential_index,0.3552
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,remember_capacity,0.39
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,revolt_cascade_pressure,1.5378700128
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,resilience_trap_index,0.71496
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,transformation_readiness,0.36105600000000004
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,justice_weighted_reorganization_gap,0.697971979467136
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,conservation_rigidity_index,0.7575999999999999
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,release_risk_index,0.7390239999999999
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,reorganization_potential_index,0.41600000000000004
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,remember_capacity,0.4212
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,revolt_cascade_pressure,1.2923714568799998
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,resilience_trap_index,0.691232
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,transformation_readiness,0.40528000000000003
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,justice_weighted_reorganization_gap,0.6711544669126461
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,conservation_rigidity_index,0.5052000000000001
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,release_risk_index,0.7512479999999999
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,reorganization_potential_index,0.644
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,remember_capacity,0.5796
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,revolt_cascade_pressure,1.38888571904
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,resilience_trap_index,0.49726400000000004
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,transformation_readiness,0.56392
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,justice_weighted_reorganization_gap,0.5058441350567937
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,conservation_rigidity_index,0.41240000000000004
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,release_risk_index,0.45297600000000005
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,reorganization_potential_index,0.744
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,remember_capacity,0.726
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,revolt_cascade_pressure,0.54038784184
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,resilience_trap_index,0.35156800000000005
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,transformation_readiness,0.72152
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,justice_weighted_reorganization_gap,0
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,conservation_rigidity_index,0.364
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,release_risk_index,0.4029600000000001
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,reorganization_potential_index,0.7132000000000001
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,remember_capacity,0.664
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,revolt_cascade_pressure,0.47705787328
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,resilience_trap_index,0.35968
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,transformation_readiness,0.707296
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,justice_weighted_reorganization_gap,0
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,conservation_rigidity_index,0.33360000000000006
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,release_risk_index,0.37606400000000006
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,reorganization_potential_index,0.7640000000000001
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,remember_capacity,0.7264
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,revolt_cascade_pressure,0.4147809730559999
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,resilience_trap_index,0.31995200000000007
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,transformation_readiness,0.7519200000000001
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,justice_weighted_reorganization_gap,0

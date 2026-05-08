@@ -1,0 +1,9 @@
+system_id,system_name,scale_level,domain,region,adaptive_phase,growth_potential,connectedness,rigidity,resilience_capacity,release_pressure,reorganization_capacity,novelty_potential,memory_capacity,revolt_pressure,cross_scale_dependency,inequality_pressure,institutional_learning,ecological_buffer_condition,governance_flexibility,system_criticality
+ACP001,Neighborhood flood adaptation district,local,urban_watershed,South Asia,K_conservation,0.54,0.82,0.78,0.40,0.74,0.38,0.42,0.46,0.70,0.72,0.76,0.44,0.36,0.40,0.74
+ACP002,Regional wetland restoration network,regional,ecological_infrastructure,Europe,alpha_reorganization,0.72,0.48,0.34,0.66,0.46,0.76,0.78,0.70,0.38,0.54,0.34,0.72,0.76,0.74,0.68
+ACP003,National drought governance system,national,food_water_system,Sub-Saharan Africa,K_conservation,0.48,0.78,0.82,0.36,0.80,0.34,0.38,0.50,0.76,0.80,0.82,0.40,0.34,0.36,0.86
+ACP004,Urban microgrid learning program,local,energy_system,North America,r_growth,0.78,0.44,0.28,0.70,0.34,0.72,0.76,0.58,0.34,0.46,0.38,0.76,0.62,0.74,0.72
+ACP005,Port logistics dependency network,regional,supply_chain,Global,K_conservation,0.56,0.86,0.80,0.34,0.78,0.32,0.34,0.42,0.74,0.84,0.54,0.38,0.40,0.34,0.88
+ACP006,Post-disaster rebuilding coalition,regional,regional_transition,Latin America,Omega_release,0.62,0.52,0.46,0.44,0.86,0.68,0.70,0.58,0.82,0.66,0.78,0.60,0.52,0.62,0.80
+ACP007,Community agroecology network,local,food_ecology,South America,r_growth,0.84,0.40,0.26,0.72,0.32,0.78,0.82,0.66,0.32,0.42,0.40,0.78,0.74,0.76,0.64
+ACP008,Global climate governance architecture,global,climate_governance,Global,K_conservation,0.52,0.88,0.84,0.32,0.82,0.30,0.36,0.64,0.78,0.90,0.72,0.42,0.48,0.34,0.94
