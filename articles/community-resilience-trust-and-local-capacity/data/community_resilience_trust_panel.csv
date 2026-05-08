@@ -1,0 +1,9 @@
+community_id,community_name,region,risk_context,hazard_pressure,exposure,social_vulnerability,trust_level,local_organizational_capacity,mutual_aid_strength,communication_access,local_knowledge_integration,institutional_support,participation_quality,recovery_capacity,exclusion_pressure,institutional_follow_through,broken_promise_pressure
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,0.82,0.78,0.70,0.46,0.58,0.66,0.54,0.50,0.42,0.38,0.44,0.64,0.36,0.58
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,0.86,0.82,0.76,0.52,0.62,0.68,0.56,0.74,0.46,0.44,0.42,0.58,0.42,0.50
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,0.84,0.80,0.68,0.64,0.70,0.72,0.58,0.86,0.48,0.50,0.46,0.46,0.48,0.40
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,0.78,0.74,0.80,0.30,0.44,0.54,0.42,0.38,0.28,0.24,0.30,0.82,0.22,0.78
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,0.74,0.70,0.78,0.62,0.68,0.72,0.64,0.66,0.52,0.56,0.50,0.54,0.56,0.42
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,0.80,0.72,0.74,0.58,0.64,0.78,0.50,0.70,0.44,0.46,0.40,0.52,0.46,0.48
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,0.62,0.58,0.42,0.78,0.76,0.74,0.72,0.68,0.76,0.74,0.72,0.28,0.74,0.24
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,0.76,0.74,0.84,0.42,0.52,0.60,0.46,0.44,0.36,0.34,0.38,0.76,0.30,0.68

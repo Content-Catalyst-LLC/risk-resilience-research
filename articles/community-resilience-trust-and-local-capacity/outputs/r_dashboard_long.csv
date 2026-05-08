@@ -1,0 +1,49 @@
+community_id,community_name,region,risk_context,metric,value
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,community_hazard_pressure,0.7619040000000001
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,local_resilience_capacity,0.3742000000000001
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,trust_adjusted_response_capacity,0.493272
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,participation_legitimacy,0.18309840000000005
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,community_resilience_gap,0.0855336000000001
+CRT004,Urban distrust and infrastructure neglect zone,North America,infrastructure_failure,updated_trust_projection,0
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,community_hazard_pressure,0.9195808
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,local_resilience_capacity,0.5718000000000001
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,trust_adjusted_response_capacity,0.7661724000000001
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,participation_legitimacy,0.39100820000000003
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,community_resilience_gap,0
+CRT002,Floodplain community-based warning district,South Asia,flooding_early_warning,updated_trust_projection,0.35500000000000004
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,community_hazard_pressure,0.8547840000000001
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,local_resilience_capacity,0.6384000000000001
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,trust_adjusted_response_capacity,0.8727119999999999
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,participation_legitimacy,0.46984000000000004
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,community_resilience_gap,0
+CRT003,Coastal Indigenous knowledge and adaptation region,Small Islands,coastal_climate_risk,updated_trust_projection,0.552
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,community_hazard_pressure,0.818688
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,local_resilience_capacity,0.5092
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,trust_adjusted_response_capacity,0.6640920000000001
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,participation_legitimacy,0.32584240000000003
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,community_resilience_gap,0
+CRT001,Heat-exposed neighborhood resilience network,North America,heat_power_outage,updated_trust_projection,0.2370000000000001
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,community_hazard_pressure,0.7513664000000001
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,local_resilience_capacity,0.4514
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,trust_adjusted_response_capacity,0.5817584
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,participation_legitimacy,0.27202040000000005
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,community_resilience_gap,0
+CRT008,Displacement-affected community support corridor,Middle East and North Africa,displacement_service_access,updated_trust_projection,0.12
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,community_hazard_pressure,0.7464959999999999
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,local_resilience_capacity,0.5826
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,trust_adjusted_response_capacity,0.7882056000000001
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,participation_legitimacy,0.41767080000000006
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,community_resilience_gap,0
+CRT006,Rural drought mutual aid and food-sharing system,Latin America,drought_food_security,updated_trust_projection,0.44600000000000006
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,community_hazard_pressure,0.679616
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,local_resilience_capacity,0.6248
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,trust_adjusted_response_capacity,0.8224486000000001
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,participation_legitimacy,0.5132008
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,community_resilience_gap,0
+CRT005,Community health worker preparedness network,Sub-Saharan Africa,health_emergency,updated_trust_projection,0.533
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,community_hazard_pressure,0.42001279999999996
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,local_resilience_capacity,0.7392000000000001
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,trust_adjusted_response_capacity,0.9254709999999999
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,participation_legitimacy,0.7943011999999999
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,community_resilience_gap,0
+CRT007,High-trust municipal resilience partnership,Europe,multi_hazard_local_resilience,updated_trust_projection,0.862
