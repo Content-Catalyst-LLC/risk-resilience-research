@@ -1,0 +1,49 @@
+system_id,system_name,region,food_system_type,metric,value
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,food_system_fragility,0.7263999999999999
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,food_access_vulnerability,0.7968000000000001
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,resilience_capacity,0.3292
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,cascading_food_risk,2.3078551552000004
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,justice_weighted_food_risk,2.9863645708288007
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,food_resilience_gap,2.6571645708288005
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,food_system_fragility,0.7500000000000001
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,food_access_vulnerability,0.7356
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,resilience_capacity,0.376
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,cascading_food_risk,2.1208187904000004
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,justice_weighted_food_risk,2.7146480517120004
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,food_resilience_gap,2.3386480517120005
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,food_system_fragility,0.7011999999999999
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,food_access_vulnerability,0.6972
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,resilience_capacity,0.38160000000000005
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,cascading_food_risk,2.066947072
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,justice_weighted_food_risk,2.631223622656
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,food_resilience_gap,2.249623622656
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,food_system_fragility,0.6204000000000001
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,food_access_vulnerability,0.7044000000000001
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,resilience_capacity,0.4176000000000001
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,cascading_food_risk,2.0663912448000006
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,justice_weighted_food_risk,2.616051315916801
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,food_resilience_gap,2.1984513159168007
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,food_system_fragility,0.6112
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,food_access_vulnerability,0.45720000000000005
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,resilience_capacity,0.5716
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,cascading_food_risk,1.517704936
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,justice_weighted_food_risk,1.7514314961439998
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,food_resilience_gap,1.1798314961439997
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,food_system_fragility,0.4956
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,food_access_vulnerability,0.38239999999999996
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,resilience_capacity,0.6536000000000001
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,cascading_food_risk,1.2593189119999997
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,justice_weighted_food_risk,1.4268083272959997
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,food_resilience_gap,0.7732083272959996
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,food_system_fragility,0.404
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,food_access_vulnerability,0.36040000000000005
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,resilience_capacity,0.7444000000000001
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,cascading_food_risk,0.9794104320000002
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,justice_weighted_food_risk,1.1233837655040002
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,food_resilience_gap,0.37898376550400015
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,food_system_fragility,0.3704
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,food_access_vulnerability,0.35120000000000007
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,resilience_capacity,0.7396
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,cascading_food_risk,0.9099722368000001
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,justice_weighted_food_risk,1.037368349952
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,food_resilience_gap,0.29776834995199986

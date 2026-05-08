@@ -1,0 +1,9 @@
+system_id,system_name,region,food_system_type,production_stress,water_stress,ecological_degradation,logistics_fragility,input_dependency,price_volatility,household_vulnerability,inequality_pressure,social_protection_capacity,nutritional_adequacy,food_system_diversity,ecological_buffer_condition,governance_capacity,market_access_reliability,storage_capacity,trade_dependency,cross_sector_linkage
+FSR001,Drought-stressed grain basin,Sub-Saharan Africa,climate_stressed_production,0.86,0.84,0.72,0.58,0.70,0.76,0.82,0.80,0.34,0.42,0.36,0.34,0.40,0.46,0.38,0.58,0.72
+FSR002,Flood-exposed rice and logistics corridor,South Asia,flood_logistics,0.72,0.68,0.66,0.82,0.62,0.70,0.76,0.78,0.36,0.44,0.42,0.36,0.42,0.38,0.34,0.64,0.80
+FSR003,Import-dependent urban food market,Small Islands,trade_dependent_access,0.48,0.54,0.46,0.70,0.82,0.84,0.72,0.76,0.38,0.48,0.40,0.42,0.44,0.52,0.36,0.88,0.78
+FSR004,Fertilizer-dependent commercial agriculture region,North America,input_dependent_production,0.58,0.62,0.54,0.46,0.86,0.66,0.42,0.44,0.60,0.68,0.48,0.50,0.58,0.70,0.62,0.70,0.58
+FSR005,Resilient agroecological food corridor,Latin America,diverse_regional_food_system,0.36,0.42,0.34,0.38,0.32,0.40,0.38,0.40,0.72,0.74,0.78,0.76,0.74,0.72,0.70,0.38,0.44
+FSR006,Conflict-affected food access region,Middle East and North Africa,conflict_access_fragility,0.78,0.64,0.62,0.80,0.68,0.86,0.88,0.84,0.30,0.36,0.34,0.32,0.34,0.36,0.32,0.72,0.82
+FSR007,Cold-chain dependent perishable foods network,Europe,logistics_and_cold_chain,0.42,0.38,0.36,0.76,0.54,0.58,0.36,0.38,0.70,0.76,0.58,0.62,0.72,0.68,0.64,0.56,0.76
+FSR008,Climate-resilient local procurement system,South America,public_procurement_resilience,0.40,0.44,0.38,0.42,0.36,0.42,0.44,0.42,0.76,0.78,0.76,0.72,0.76,0.74,0.72,0.40,0.48
