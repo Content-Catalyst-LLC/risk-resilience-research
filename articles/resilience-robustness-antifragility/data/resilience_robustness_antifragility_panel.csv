@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,stress_type,stress_intensity,stress_variability,system_criticality,robustness_capacity,recovery_capacity,adaptive_capacity,redundancy_capacity,modularity_capacity,monitoring_capacity,learning_capacity,experimentation_capacity,optionality_capacity,failure_containment,harm_bounding_capacity,justice_safeguard_capacity
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,0.84,0.42,0.88,0.78,0.48,0.40,0.52,0.38,0.58,0.34,0.18,0.22,0.50,0.62,0.54
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,0.68,0.55,0.78,0.62,0.74,0.68,0.76,0.72,0.70,0.66,0.54,0.60,0.74,0.68,0.64
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,0.76,0.58,0.92,0.54,0.68,0.62,0.50,0.46,0.56,0.60,0.32,0.38,0.58,0.56,0.48
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,0.52,0.82,0.42,0.36,0.44,0.74,0.48,0.72,0.62,0.86,0.88,0.84,0.82,0.40,0.38
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,0.88,0.64,0.74,0.42,0.36,0.38,0.30,0.28,0.34,0.32,0.20,0.24,0.26,0.34,0.30
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,0.62,0.60,0.70,0.56,0.66,0.70,0.62,0.76,0.58,0.72,0.50,0.54,0.68,0.66,0.60
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,0.70,0.50,0.84,0.58,0.42,0.46,0.34,0.30,0.64,0.44,0.24,0.30,0.28,0.46,0.42
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,0.80,0.66,0.76,0.48,0.70,0.72,0.58,0.66,0.62,0.76,0.52,0.58,0.70,0.64,0.68

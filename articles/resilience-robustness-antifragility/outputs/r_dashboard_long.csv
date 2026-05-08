@@ -1,0 +1,65 @@
+system_id,system_name,domain,region,stress_type,metric,value
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,stress_load,1.5054336
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,robustness_score,0.42
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,resilience_score,0.3286
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,bounded_antifragility_score,0.08217440000000002
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,brittleness_risk,1.1425656
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,sustainable_resilience_score,0.30880339200000007
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,system_response_gap,1.1966302079999998
+RRA005,Monoculture agricultural region,food_system,Sub-Saharan Africa,drought_heat,antifragility_suitability,0.012669648992000003
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,stress_load,1.3741728
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,robustness_score,0.78
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,resilience_score,0.46660000000000007
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,bounded_antifragility_score,0.18209152
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,brittleness_risk,0.7563047999999999
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,sustainable_resilience_score,0.5167484736000001
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,system_response_gap,0.8574243263999999
+RRA001,Coastal flood defense corridor,critical_infrastructure,North America,storm_surge,antifragility_suitability,0.04697961216
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,stress_load,1.3411872000000002
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,robustness_score,0.54
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,resilience_score,0.5760000000000001
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,bounded_antifragility_score,0.25001808000000003
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,brittleness_risk,0.7883872000000002
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,sustainable_resilience_score,0.49692325440000007
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,system_response_gap,0.8442639456000002
+RRA003,Public health emergency system,public_health,Latin America,compound_heat_disease,antifragility_suitability,0.07163518028159999
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,stress_load,1.387456
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,robustness_score,0.48
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,resilience_score,0.6676
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,bounded_antifragility_score,0.4259288
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,brittleness_risk,0.798648
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,sustainable_resilience_score,0.5690591840000001
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,system_response_gap,0.8183968159999999
+RRA008,Community-led adaptation network,community_resilience,Pacific,cyclone_sea_level,antifragility_suitability,0.17352339311999998
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,stress_load,1.169
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,robustness_score,0.58
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,resilience_score,0.40540000000000004
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,bounded_antifragility_score,0.1403136
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,brittleness_risk,0.690148
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,sustainable_resilience_score,0.411524448
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,system_response_gap,0.757475552
+RRA007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,antifragility_suitability,0.021136840704000005
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,stress_load,1.137504
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,robustness_score,0.62
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,resilience_score,0.7227999999999999
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,bounded_antifragility_score,0.43606111999999997
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,brittleness_risk,0.4666800000000001
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,sustainable_resilience_score,0.6320670015999998
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,system_response_gap,0.5054369984000002
+RRA002,Distributed microgrid network,energy_system,Europe,heat_peak_load,antifragility_suitability,0.18425326564479996
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,stress_load,1.0316800000000002
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,robustness_score,0.56
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,resilience_score,0.6708000000000001
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,bounded_antifragility_score,0.40290704000000005
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,brittleness_risk,0.41301600000000005
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,sustainable_resilience_score,0.5822592672
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,system_response_gap,0.44942073280000017
+RRA006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,antifragility_suitability,0.16849572412800004
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,stress_load,0.85637759999999985
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,robustness_score,0.36
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,resilience_score,0.6158
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,bounded_antifragility_score,0.39534095999999996
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,brittleness_risk,0.37413359999999984
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,sustainable_resilience_score,0.4757973728
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,system_response_gap,0.38058022719999984
+RRA004,Startup innovation ecosystem,innovation_system,Global,market_volatility,antifragility_suitability,0.24929410255679996
