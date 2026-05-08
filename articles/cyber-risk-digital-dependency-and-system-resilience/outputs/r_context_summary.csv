@@ -1,0 +1,9 @@
+service_context,systems,mean_criticality,mean_identity_weakness,mean_vendor_exposure,mean_resilience_capacity,mean_continuity_gap
+ransomware_care_continuity,1,0.96,0.68,0.74,0.38980000000000004,2.086076413265014
+identity_concentration,1,0.92,0.82,0.78,0.5678000000000001,2.06168770584763
+digital_service_access,1,0.88,0.7,0.76,0.3376,1.9614464815921977
+emergency_response_dependency,1,0.96,0.6,0.66,0.4814,1.9009082481621238
+ot_service_continuity,1,0.94,0.58,0.62,0.3988,1.7751633189626541
+payment_continuity,1,0.9,0.64,0.78,0.5257999999999999,1.7027862762138146
+supply_chain_dependency,1,0.86,0.56,0.7,0.45020000000000004,1.6301113057644883
+digital_access_and_records,1,0.78,0.74,0.7,0.3518,1.5196591814049736

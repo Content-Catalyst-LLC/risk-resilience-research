@@ -1,0 +1,9 @@
+system_id,system_name,sector,service_context,digital_criticality,threat_pressure,technical_vulnerability_exposure,dependency_concentration,identity_access_weakness,vendor_supply_chain_exposure,operational_technology_exposure,data_integrity_risk,recovery_capacity,governance_capacity,backup_redundancy_capacity,monitoring_maturity,logging_maturity,incident_exercise_maturity,user_vulnerability
+CYB001,Hospital clinical systems and electronic health records,Health,ransomware_care_continuity,0.96,0.84,0.70,0.76,0.68,0.74,0.48,0.78,0.38,0.42,0.34,0.44,0.40,0.36,0.82
+CYB002,Water utility operational technology and billing systems,Water,ot_service_continuity,0.94,0.76,0.72,0.66,0.58,0.62,0.86,0.56,0.40,0.46,0.38,0.42,0.38,0.34,0.76
+CYB003,Cloud identity provider and access platform,Digital Infrastructure,identity_concentration,0.92,0.82,0.58,0.88,0.82,0.78,0.22,0.66,0.52,0.58,0.56,0.62,0.60,0.54,0.62
+CYB004,Local government public benefits platform,Public Administration,digital_service_access,0.88,0.74,0.68,0.72,0.70,0.76,0.20,0.74,0.34,0.38,0.30,0.36,0.34,0.30,0.86
+CYB005,Port logistics and customs data platform,Transport and Logistics,supply_chain_dependency,0.86,0.78,0.62,0.74,0.56,0.70,0.44,0.64,0.44,0.48,0.42,0.50,0.46,0.40,0.58
+CYB006,Payment processing and municipal finance system,Finance,payment_continuity,0.90,0.80,0.56,0.82,0.64,0.78,0.16,0.70,0.50,0.56,0.48,0.58,0.54,0.50,0.60
+CYB007,Emergency communications and dispatch platform,Emergency Services,emergency_response_dependency,0.96,0.76,0.60,0.70,0.60,0.66,0.38,0.64,0.48,0.54,0.44,0.52,0.48,0.42,0.80
+CYB008,School district learning and student records platform,Education,digital_access_and_records,0.78,0.66,0.72,0.68,0.74,0.70,0.08,0.76,0.36,0.40,0.32,0.38,0.34,0.30,0.72
