@@ -1,0 +1,9 @@
+fragility_context,systems,mean_conflict_intensity,mean_service_continuity,mean_legitimacy,mean_fragility_pressure,mean_resilience_gap
+active_conflict_service_disruption,1,0.86,0.3,0.36,0.7868,1.8492807900880004
+climate_conflict_food_insecurity,1,0.78,0.34,0.34,0.8188000000000001,1.8251868036399999
+fragility_displacement_climate,1,0.68,0.36,0.34,0.79,1.6057629704
+hybrid_authority_borderland,1,0.64,0.44,0.38,0.6776,1.2036854798080001
+urban_violence_governance_stress,1,0.72,0.48,0.4,0.6152,0.925145880384
+early_warning_resilience,1,0.34,0.78,0.72,0.3844000000000001,0
+local_resilience_network,1,0.42,0.72,0.7,0.4216,0
+post_conflict_recovery,1,0.38,0.66,0.58,0.44480000000000003,0

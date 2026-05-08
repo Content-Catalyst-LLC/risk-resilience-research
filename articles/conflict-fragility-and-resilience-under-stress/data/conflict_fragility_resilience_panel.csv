@@ -1,0 +1,9 @@
+system_id,system_name,region,fragility_context,conflict_intensity,governance_capacity,service_continuity,institutional_legitimacy,administrative_reach,recovery_capacity,social_vulnerability,displacement_pressure,livelihood_stress,hazard_exposure,essential_service_demand,inequality_pressure,institutional_exclusion,public_trust,repeated_disruption_pressure
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,0.86,0.34,0.30,0.36,0.32,0.30,0.78,0.82,0.76,0.70,0.88,0.80,0.76,0.30,0.82
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,0.68,0.38,0.36,0.34,0.36,0.32,0.82,0.86,0.80,0.82,0.84,0.78,0.74,0.34,0.80
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,0.72,0.44,0.48,0.40,0.46,0.42,0.66,0.46,0.62,0.58,0.70,0.76,0.70,0.38,0.68
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,0.64,0.42,0.44,0.38,0.34,0.36,0.70,0.68,0.72,0.66,0.78,0.74,0.72,0.36,0.72
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,0.38,0.62,0.66,0.58,0.60,0.58,0.48,0.42,0.50,0.46,0.56,0.44,0.42,0.54,0.44
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,0.78,0.36,0.34,0.34,0.36,0.30,0.86,0.74,0.88,0.84,0.90,0.82,0.78,0.32,0.86
+CFR007,Locally resilient service network,South America,local_resilience_network,0.42,0.68,0.72,0.70,0.66,0.68,0.44,0.34,0.42,0.48,0.52,0.38,0.34,0.70,0.36
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,0.34,0.76,0.78,0.72,0.74,0.72,0.36,0.28,0.38,0.56,0.58,0.34,0.30,0.72,0.32

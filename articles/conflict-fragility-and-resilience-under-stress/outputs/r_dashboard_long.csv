@@ -1,0 +1,49 @@
+system_id,system_name,region,fragility_context,metric,value
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,fragility_pressure,0.7868
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,governance_resilience,0.3252
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,conflict_amplified_systemic_risk,0.9670807900880001
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,service_breakdown_gap,0.5800000000000001
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,legitimacy_erosion,0.6274
+CFR001,Conflict-affected service corridor,Sub-Saharan Africa,active_conflict_service_disruption,resilience_under_stress_gap,1.8492807900880004
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,fragility_pressure,0.8188000000000001
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,governance_resilience,0.342
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,conflict_amplified_systemic_risk,0.97378680364
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,service_breakdown_gap,0.56
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,legitimacy_erosion,0.6334
+CFR006,Climate-conflict food insecurity zone,Sub-Saharan Africa,climate_conflict_food_insecurity,resilience_under_stress_gap,1.8251868036399999
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,fragility_pressure,0.79
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,governance_resilience,0.35440000000000005
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,conflict_amplified_systemic_risk,0.9037629704000001
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,service_breakdown_gap,0.48
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,legitimacy_erosion,0.5764
+CFR002,Fragile drought and displacement region,Middle East and North Africa,fragility_displacement_climate,resilience_under_stress_gap,1.6057629704
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,fragility_pressure,0.6776
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,governance_resilience,0.39239999999999997
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,conflict_amplified_systemic_risk,0.752885479808
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,service_breakdown_gap,0.34
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,legitimacy_erosion,0.5032
+CFR004,Borderland hybrid authority system,South Asia,hybrid_authority_borderland,resilience_under_stress_gap,1.2036854798080001
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,fragility_pressure,0.6152
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,governance_resilience,0.4412
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,conflict_amplified_systemic_risk,0.6887458803840001
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,service_breakdown_gap,0.21999999999999997
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,legitimacy_erosion,0.45759999999999995
+CFR003,Urban violence and governance stress district,Latin America,urban_violence_governance_stress,resilience_under_stress_gap,0.925145880384
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,fragility_pressure,0.44480000000000003
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,governance_resilience,0.6108
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,conflict_amplified_systemic_risk,0.409511178176
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,service_breakdown_gap,0
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,legitimacy_erosion,0.1732
+CFR005,Post-conflict local recovery system,Europe,post_conflict_recovery,resilience_under_stress_gap,0
+CFR007,Locally resilient service network,South America,local_resilience_network,fragility_pressure,0.4216
+CFR007,Locally resilient service network,South America,local_resilience_network,governance_resilience,0.6892
+CFR007,Locally resilient service network,South America,local_resilience_network,conflict_amplified_systemic_risk,0.380363059472
+CFR007,Locally resilient service network,South America,local_resilience_network,service_breakdown_gap,0
+CFR007,Locally resilient service network,South America,local_resilience_network,legitimacy_erosion,0.09440000000000001
+CFR007,Locally resilient service network,South America,local_resilience_network,resilience_under_stress_gap,0
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,fragility_pressure,0.3844000000000001
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,governance_resilience,0.7464
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,conflict_amplified_systemic_risk,0.3274281836320001
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,service_breakdown_gap,0
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,legitimacy_erosion,0.06439999999999999
+CFR008,High-capacity disaster-conflict early warning system,East Asia,early_warning_resilience,resilience_under_stress_gap,0
