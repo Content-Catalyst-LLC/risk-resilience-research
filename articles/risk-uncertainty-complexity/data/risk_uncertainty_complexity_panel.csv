@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,primary_hazard,hazard_probability,expected_loss_index,probability_uncertainty,loss_uncertainty,dependency_density,feedback_strength,threshold_sensitivity,adaptive_behavior,monitoring_capacity,redundancy_capacity,flexibility_capacity,institutional_learning,adaptive_governance_capacity,social_vulnerability,criticality_index
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,0.72,0.78,0.26,0.34,0.74,0.58,0.63,0.52,0.66,0.45,0.50,0.55,0.52,0.58,0.80
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,0.81,0.74,0.36,0.42,0.62,0.69,0.76,0.61,0.44,0.36,0.42,0.40,0.38,0.74,0.72
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,0.64,0.70,0.20,0.28,0.82,0.66,0.55,0.50,0.72,0.58,0.54,0.62,0.58,0.42,0.86
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,0.68,0.76,0.31,0.39,0.88,0.72,0.58,0.64,0.54,0.38,0.46,0.50,0.48,0.52,0.90
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,0.70,0.73,0.33,0.37,0.66,0.64,0.62,0.57,0.50,0.42,0.48,0.44,0.43,0.82,0.78
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,0.58,0.60,0.30,0.32,0.54,0.70,0.68,0.62,0.46,0.48,0.52,0.50,0.46,0.48,0.62
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,0.55,0.66,0.24,0.35,0.86,0.60,0.48,0.72,0.62,0.40,0.44,0.56,0.50,0.40,0.84
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,0.42,0.48,0.22,0.24,0.38,0.46,0.42,0.54,0.78,0.70,0.74,0.76,0.72,0.30,0.44

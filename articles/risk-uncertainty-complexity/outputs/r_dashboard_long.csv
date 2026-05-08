@@ -1,0 +1,57 @@
+system_id,system_name,domain,region,primary_hazard,metric,value
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,expected_risk,0.5994
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,combined_uncertainty,0.39
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,uncertainty_adjusted_risk,0.8331660000000002
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,complexity_multiplier,1.668
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,vulnerability_weighted_systemic_risk,1.9427853303555842
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,robust_response_capacity,0.40040000000000003
+RUC002,Dryland food-water system,food_water_system,Sub-Saharan Africa,drought,resilience_gap,1.5423853303555841
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,expected_risk,0.5168
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,combined_uncertainty,0.35
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,uncertainty_adjusted_risk,0.6976800000000001
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,complexity_multiplier,1.712
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,vulnerability_weighted_systemic_risk,1.6292955644928002
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,robust_response_capacity,0.4736
+RUC004,Globalized medical supply chain,health_supply_chain,Global,supply_disruption,resilience_gap,1.1556955644928002
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,expected_risk,0.511
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,combined_uncertainty,0.35
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,uncertainty_adjusted_risk,0.6898500000000001
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,complexity_multiplier,1.624
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,vulnerability_weighted_systemic_risk,1.6136768549664005
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,robust_response_capacity,0.4544
+RUC005,Urban public health system,public_health,Latin America,compound_heat_disease,resilience_gap,1.1592768549664005
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,expected_risk,0.5616
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,combined_uncertainty,0.30000000000000004
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,uncertainty_adjusted_risk,0.7300800000000001
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,complexity_multiplier,1.6224
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,vulnerability_weighted_systemic_risk,1.6130746836172802
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,robust_response_capacity,0.5392
+RUC001,Coastal infrastructure network,urban_infrastructure,North America,storm_surge,resilience_gap,1.0738746836172801
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,expected_risk,0.44799999999999995
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,combined_uncertainty,0.24000000000000002
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,uncertainty_adjusted_risk,0.5555199999999999
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,complexity_multiplier,1.6400000000000001
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,vulnerability_weighted_systemic_risk,1.2022908706815998
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,robust_response_capacity,0.6115999999999999
+RUC003,Regional electricity grid,critical_infrastructure,Europe,heat_peak_load,resilience_gap,0.5906908706815999
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,expected_risk,0.36300000000000004
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,combined_uncertainty,0.295
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,uncertainty_adjusted_risk,0.47008500000000003
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,complexity_multiplier,1.6728
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,vulnerability_weighted_systemic_risk,1.0286823272140801
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,robust_response_capacity,0.5075999999999999
+RUC007,Digital municipal services platform,digital_infrastructure,Asia,cyber_outage,resilience_gap,0.5210823272140802
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,expected_risk,0.348
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,combined_uncertainty,0.31
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,uncertainty_adjusted_risk,0.45588
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,complexity_multiplier,1.6312
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,vulnerability_weighted_systemic_risk,0.956202969486336
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,robust_response_capacity,0.48280000000000006
+RUC006,Watershed governance system,watershed_ecology,South America,flood_landslide,resilience_gap,0.4734029694863359
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,expected_risk,0.20159999999999997
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,combined_uncertainty,0.22999999999999998
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,uncertainty_adjusted_risk,0.24796799999999997
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,complexity_multiplier,1.4472
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,vulnerability_weighted_systemic_risk,0.425578408722432
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,robust_response_capacity,0.7408
+RUC008,Regenerative regional transition,regional_transition,Europe,heat_drought,resilience_gap,0
