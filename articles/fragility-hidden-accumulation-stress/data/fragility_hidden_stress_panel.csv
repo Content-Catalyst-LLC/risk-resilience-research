@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,stress_type,visible_performance,stress_accumulation,buffer_erosion,deferred_maintenance,institutional_drift,signal_normalization,standard_erosion,threshold_proximity,adaptation_debt,ecological_support_erosion,social_strain,trust_erosion,monitoring_capacity,response_capacity,justice_pressure,system_criticality
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,0.78,0.72,0.66,0.74,0.58,0.62,0.60,0.68,0.56,0.42,0.50,0.48,0.54,0.46,0.52,0.86
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,0.74,0.76,0.62,0.58,0.70,0.66,0.64,0.60,0.78,0.34,0.82,0.64,0.50,0.44,0.76,0.90
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,0.70,0.78,0.70,0.56,0.54,0.58,0.52,0.76,0.60,0.82,0.52,0.46,0.48,0.42,0.50,0.78
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,0.86,0.68,0.72,0.46,0.50,0.58,0.54,0.62,0.64,0.30,0.56,0.44,0.58,0.40,0.62,0.84
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,0.82,0.66,0.68,0.52,0.56,0.60,0.58,0.54,0.62,0.24,0.42,0.50,0.64,0.48,0.44,0.82
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,0.64,0.84,0.76,0.54,0.62,0.68,0.60,0.82,0.72,0.78,0.80,0.58,0.42,0.36,0.78,0.76
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,0.80,0.38,0.32,0.30,0.34,0.36,0.30,0.34,0.28,0.26,0.34,0.28,0.76,0.72,0.30,0.70
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,0.78,0.34,0.30,0.28,0.32,0.30,0.28,0.32,0.26,0.24,0.30,0.26,0.80,0.76,0.28,0.64

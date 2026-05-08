@@ -1,0 +1,57 @@
+system_id,system_name,domain,region,stress_type,metric,value
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,visible_performance,0.64
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,hidden_stress_index,0.726
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,drift_index,0.6280000000000001
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,latent_instability,0.7475600000000001
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,resilience_margin,0.30119999999999997
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,justice_weighted_fragility,0.962933780928
+FHS006,Dryland smallholder farming region,food_water_system,Sub-Saharan Africa,drought_heat,resilience_gap,0.661733780928
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,visible_performance,0.74
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,hidden_stress_index,0.658
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,drift_index,0.6468
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,latent_instability,0.67244
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,resilience_margin,0.4268
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,justice_weighted_fragility,0.94102104096
+FHS002,Overloaded public health system,public_health,Latin America,heat_disease_workforce,resilience_gap,0.5142210409600001
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,visible_performance,0.7
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,hidden_stress_index,0.6456000000000001
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,drift_index,0.5448000000000001
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,latent_instability,0.6904160000000001
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,resilience_margin,0.3612
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,justice_weighted_fragility,0.8033895518399999
+FHS003,Degraded watershed and water utility,watershed_ecology,South America,drought_flood,resilience_gap,0.4421895518399999
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,visible_performance,0.78
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,hidden_stress_index,0.5990000000000001
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,drift_index,0.5796
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,latent_instability,0.6676600000000001
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,resilience_margin,0.41319999999999996
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,justice_weighted_fragility,0.8140306533120002
+FHS001,Aging coastal bridge network,critical_infrastructure,North America,storm_surge_flood,resilience_gap,0.40083065331200024
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,visible_performance,0.86
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,hidden_stress_index,0.5603999999999999
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,drift_index,0.5216
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,latent_instability,0.6200239999999999
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,resilience_margin,0.39880000000000004
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,justice_weighted_fragility,0.7913558194431999
+FHS004,Just-in-time food distribution corridor,food_supply_chain,Global,supply_disruption,resilience_gap,0.39255581944319984
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,visible_performance,0.82
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,hidden_stress_index,0.5376
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,drift_index,0.5484
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,latent_instability,0.5858559999999999
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,resilience_margin,0.4603999999999999
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,justice_weighted_fragility,0.7172190724607999
+FHS005,Centralized digital civic platform,digital_infrastructure,Asia,cyber_outage,resilience_gap,0.25681907246079994
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,visible_performance,0.8
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,hidden_stress_index,0.31460000000000005
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,drift_index,0.32320000000000004
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,latent_instability,0.38763600000000004
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,resilience_margin,0.7051999999999999
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,justice_weighted_fragility,0.38197236896000003
+FHS007,Community microgrid network,energy_system,Europe,storm_grid_stress,resilience_gap,0
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,visible_performance,0.78
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,hidden_stress_index,0.288
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,drift_index,0.2884
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,latent_instability,0.35656
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,resilience_margin,0.7348
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,justice_weighted_fragility,0.331857833472
+FHS008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,resilience_gap,0
