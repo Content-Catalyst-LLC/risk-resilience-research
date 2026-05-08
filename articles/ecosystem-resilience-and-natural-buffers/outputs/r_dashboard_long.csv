@@ -1,0 +1,49 @@
+system_id,system_name,region,ecosystem_type,metric,value
+EBR005,Degraded coral reef coastline,Small Islands,reef,natural_buffer_capacity,0.35640000000000005
+EBR005,Degraded coral reef coastline,Small Islands,reef,hazard_exposure_pressure,0.9410015999999999
+EBR005,Degraded coral reef coastline,Small Islands,reef,buffer_adjusted_risk,0.7110753870527999
+EBR005,Degraded coral reef coastline,Small Islands,reef,ecological_fragility,0.6588
+EBR005,Degraded coral reef coastline,Small Islands,reef,justice_weighted_ecosystem_risk,1.6904262276231552
+EBR005,Degraded coral reef coastline,Small Islands,reef,ecosystem_resilience_gap,1.3340262276231551
+EBR003,Deforested mountain watershed,Latin America,watershed_forest,natural_buffer_capacity,0.3796
+EBR003,Deforested mountain watershed,Latin America,watershed_forest,hazard_exposure_pressure,0.698558
+EBR003,Deforested mountain watershed,Latin America,watershed_forest,buffer_adjusted_risk,0.5184111385838001
+EBR003,Deforested mountain watershed,Latin America,watershed_forest,ecological_fragility,0.6416000000000001
+EBR003,Deforested mountain watershed,Latin America,watershed_forest,justice_weighted_ecosystem_risk,1.3757732103603868
+EBR003,Deforested mountain watershed,Latin America,watershed_forest,ecosystem_resilience_gap,0.9961732103603869
+EBR004,Coastal mangrove protection zone,South Asia,mangrove,natural_buffer_capacity,0.4696
+EBR004,Coastal mangrove protection zone,South Asia,mangrove,hazard_exposure_pressure,0.866192
+EBR004,Coastal mangrove protection zone,South Asia,mangrove,buffer_adjusted_risk,0.6080019928384001
+EBR004,Coastal mangrove protection zone,South Asia,mangrove,ecological_fragility,0.544
+EBR004,Coastal mangrove protection zone,South Asia,mangrove,justice_weighted_ecosystem_risk,1.407746435248525
+EBR004,Coastal mangrove protection zone,South Asia,mangrove,ecosystem_resilience_gap,0.9381464352485249
+EBR002,Disconnected river floodplain,Europe,floodplain,natural_buffer_capacity,0.394
+EBR002,Disconnected river floodplain,Europe,floodplain,hazard_exposure_pressure,0.5877376
+EBR002,Disconnected river floodplain,Europe,floodplain,buffer_adjusted_risk,0.41825494084479997
+EBR002,Disconnected river floodplain,Europe,floodplain,ecological_fragility,0.6104
+EBR002,Disconnected river floodplain,Europe,floodplain,justice_weighted_ecosystem_risk,1.1767812523264511
+EBR002,Disconnected river floodplain,Europe,floodplain,ecosystem_resilience_gap,0.7827812523264511
+EBR001,Urban wetland flood buffer,North America,wetland,natural_buffer_capacity,0.49839999999999995
+EBR001,Urban wetland flood buffer,North America,wetland,hazard_exposure_pressure,0.6795359999999999
+EBR001,Urban wetland flood buffer,North America,wetland,buffer_adjusted_risk,0.4612384576799999
+EBR001,Urban wetland flood buffer,North America,wetland,ecological_fragility,0.5036
+EBR001,Urban wetland flood buffer,North America,wetland,justice_weighted_ecosystem_risk,1.1385093800624
+EBR001,Urban wetland flood buffer,North America,wetland,ecosystem_resilience_gap,0.6401093800624
+EBR006,Regenerative soil and agroecology district,Sub-Saharan Africa,soil_agroecosystem,natural_buffer_capacity,0.5424
+EBR006,Regenerative soil and agroecology district,Sub-Saharan Africa,soil_agroecosystem,hazard_exposure_pressure,0.5833728
+EBR006,Regenerative soil and agroecology district,Sub-Saharan Africa,soil_agroecosystem,buffer_adjusted_risk,0.39027010277376006
+EBR006,Regenerative soil and agroecology district,Sub-Saharan Africa,soil_agroecosystem,ecological_fragility,0.4692
+EBR006,Regenerative soil and agroecology district,Sub-Saharan Africa,soil_agroecosystem,justice_weighted_ecosystem_risk,1.0554292862061774
+EBR006,Regenerative soil and agroecology district,Sub-Saharan Africa,soil_agroecosystem,ecosystem_resilience_gap,0.5130292862061774
+EBR008,Urban heat canopy and green corridors,North America,urban_tree_canopy,natural_buffer_capacity,0.5948
+EBR008,Urban heat canopy and green corridors,North America,urban_tree_canopy,hazard_exposure_pressure,0.6548919999999998
+EBR008,Urban heat canopy and green corridors,North America,urban_tree_canopy,buffer_adjusted_risk,0.41006108422439985
+EBR008,Urban heat canopy and green corridors,North America,urban_tree_canopy,ecological_fragility,0.4088
+EBR008,Urban heat canopy and green corridors,North America,urban_tree_canopy,justice_weighted_ecosystem_risk,0.980995578900831
+EBR008,Urban heat canopy and green corridors,North America,urban_tree_canopy,ecosystem_resilience_gap,0.386195578900831
+EBR007,Connected watershed restoration region,South America,restored_watershed,natural_buffer_capacity,0.742
+EBR007,Connected watershed restoration region,South America,restored_watershed,hazard_exposure_pressure,0.3459352
+EBR007,Connected watershed restoration region,South America,restored_watershed,buffer_adjusted_risk,0.1889504981104
+EBR007,Connected watershed restoration region,South America,restored_watershed,ecological_fragility,0.26080000000000003
+EBR007,Connected watershed restoration region,South America,restored_watershed,justice_weighted_ecosystem_risk,0.5064190608723104
+EBR007,Connected watershed restoration region,South America,restored_watershed,ecosystem_resilience_gap,0
