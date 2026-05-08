@@ -1,11 +1,29 @@
-# Risk & Resilience Article Roadmap
+# What Are Risk and Resilience in Sustainable Systems?
 
-This folder stores article-planning notes for the Risk & Resilience knowledge series.
+This article folder supports the Risk & Resilience knowledge-series article:
 
-The central roadmap is maintained through:
+**What Are Risk and Resilience in Sustainable Systems?**
 
-- `data/articles.csv`
-- `sql/schema.sql`
-- `sql/seed_risk_resilience.sql`
-- `sql/views.sql`
-- `python/export_article_roadmap.py`
+Article URL:
+https://sustainablecatalyst.com/what-are-risk-and-resilience-in-sustainable-systems/
+
+Repository folder:
+https://github.com/Content-Catalyst-LLC/risk-resilience-research/tree/main/articles/risk-resilience
+
+## Purpose
+
+This folder provides reproducible scaffolding for modeling risk and resilience as relationships among:
+
+- hazard pressure
+- exposure
+- vulnerability
+- protective capacity
+- robustness
+- redundancy
+- adaptive capacity
+- recovery capacity
+- transformation capacity
+- justice and legitimacy
+- functional recovery loss
+
+The examples use synthetic data and are intended for conceptual, educational, and research-scaffolding purposes.
