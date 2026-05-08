@@ -1,0 +1,65 @@
+system_id,system_name,domain,region,hazard_type,metric,value
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,hazard_exposure_load,0.7644
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,composite_vulnerability,0.7535999999999999
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,composite_capacity,0.358
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,systemic_risk_score,1.433537641396224
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,resilience_capacity_score,0.3632
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,justice_adjusted_vulnerability,0.9804335999999999
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,resilience_gap,1.070337641396224
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,transformation_readiness,0.3655
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,hazard_exposure_load,0.7553
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,composite_vulnerability,0.66
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,composite_capacity,0.4016
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,systemic_risk_score,1.22864661151232
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,resilience_capacity_score,0.40520000000000006
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,justice_adjusted_vulnerability,0.83094
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,resilience_gap,0.82344661151232
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,transformation_readiness,0.42300000000000004
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,hazard_exposure_load,0.6952
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,composite_vulnerability,0.6659999999999999
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,composite_capacity,0.49699999999999994
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,systemic_risk_score,0.9815243979340801
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,resilience_capacity_score,0.503
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,justice_adjusted_vulnerability,0.8198459999999999
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,resilience_gap,0.4785243979340801
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,transformation_readiness,0.497
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,hazard_exposure_load,0.7215999999999999
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,composite_vulnerability,0.5628000000000001
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,composite_capacity,0.5692
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,systemic_risk_score,0.7910125466546687
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,resilience_capacity_score,0.5694
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,justice_adjusted_vulnerability,0.6750786000000001
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,resilience_gap,0.22161254665466867
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,transformation_readiness,0.5535
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,hazard_exposure_load,0.5624
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,composite_vulnerability,0.61239999999999994
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,composite_capacity,0.5207999999999999
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,systemic_risk_score,0.7146529599263234
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,resilience_capacity_score,0.5202
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,justice_adjusted_vulnerability,0.7109964
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,resilience_gap,0.1944529599263234
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,transformation_readiness,0.5449999999999999
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,hazard_exposure_load,0.6278
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,composite_vulnerability,0.4784
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,composite_capacity,0.5652
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,systemic_risk_score,0.6627988359573505
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,resilience_capacity_score,0.5656000000000001
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,justice_adjusted_vulnerability,0.5520735999999999
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,resilience_gap,0.09719883595735035
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,transformation_readiness,0.5865
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,hazard_exposure_load,0.4148
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,composite_vulnerability,0.5062
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,composite_capacity,0.5312
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,systemic_risk_score,0.42815098899043835
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,resilience_capacity_score,0.5252
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,justice_adjusted_vulnerability,0.5823831
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,resilience_gap,0
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,transformation_readiness,0.501
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,hazard_exposure_load,0.2964
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,composite_vulnerability,0.3208
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,composite_capacity,0.7534
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,systemic_risk_score,0.1287460515174912
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,resilience_capacity_score,0.7506000000000002
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,justice_adjusted_vulnerability,0.3522384
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,resilience_gap,0
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,transformation_readiness,0.739

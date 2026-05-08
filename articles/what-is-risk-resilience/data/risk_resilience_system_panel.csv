@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,hazard_type,hazard_intensity,exposure_index,social_vulnerability,infrastructure_vulnerability,ecological_vulnerability,adaptive_capacity,governance_capacity,ecological_buffer_capacity,redundancy_index,early_warning_capacity,transformation_capacity,supply_chain_dependency,critical_infrastructure_dependency,social_inequality_index
+SYS001,Coastal metropolitan district,urban_infrastructure,North America,storm_surge,0.82,0.88,0.54,0.66,0.48,0.62,0.58,0.52,0.46,0.70,0.55,0.61,0.78,0.57
+SYS002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought,0.91,0.83,0.72,0.50,0.76,0.42,0.44,0.38,0.34,0.36,0.46,0.70,0.48,0.74
+SYS003,Mountain watershed region,watershed_ecology,South America,flood_landslide,0.68,0.61,0.45,0.52,0.58,0.55,0.50,0.64,0.42,0.48,0.52,0.44,0.40,0.43
+SYS004,Industrial river corridor,industrial_region,Europe,compound_pollution_flood,0.76,0.74,0.49,0.71,0.69,0.57,0.63,0.34,0.51,0.60,0.49,0.67,0.72,0.46
+SYS005,Island food-energy-water system,island_system,Pacific,cyclone_sea_level,0.88,0.79,0.68,0.62,0.70,0.46,0.52,0.57,0.36,0.50,0.58,0.73,0.69,0.66
+SYS006,Inland logistics hub,supply_chain_system,Asia,heat_flood,0.73,0.86,0.41,0.64,0.39,0.65,0.59,0.41,0.60,0.62,0.54,0.88,0.76,0.44
+SYS007,Urban informal settlement,urban_social_system,Latin America,heat_flood,0.84,0.91,0.83,0.77,0.61,0.36,0.39,0.33,0.28,0.42,0.40,0.55,0.58,0.86
+SYS008,Regenerative peri-urban region,regional_transition,Europe,heat_drought,0.57,0.52,0.31,0.36,0.29,0.78,0.74,0.81,0.66,0.72,0.76,0.34,0.39,0.28
