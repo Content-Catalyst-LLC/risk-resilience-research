@@ -1,0 +1,57 @@
+system_id,system_name,region,event_type,metric,value
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,compound_event_severity,0.8815999999999999
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,social_sensitivity_index,0.758
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,system_fragility_index,0.7592000000000001
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,cascade_potential,1.3540293089362379
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,justice_weighted_social_risk,1.2786745738283565
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,continuity_capacity,0.3872
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,compound_resilience_gap,0.8914745738283565
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,compound_event_severity,0.8223999999999999
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,social_sensitivity_index,0.8016000000000001
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,system_fragility_index,0.7212000000000002
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,cascade_potential,1.2329311789774695
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,justice_weighted_social_risk,1.2419732393268013
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,continuity_capacity,0.37160000000000004
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,compound_resilience_gap,0.8703732393268012
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,compound_event_severity,0.8432
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,social_sensitivity_index,0.7263999999999999
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,system_fragility_index,0.7308000000000001
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,cascade_potential,1.2806218333615451
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,justice_weighted_social_risk,1.2110800597470557
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,continuity_capacity,0.3772
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,compound_resilience_gap,0.8338800597470557
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,compound_event_severity,0.7811999999999999
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,social_sensitivity_index,0.6428
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,system_fragility_index,0.6544
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,cascade_potential,1.1051884875996516
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,justice_weighted_social_risk,1.0232215107293652
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,continuity_capacity,0.44279999999999997
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,compound_resilience_gap,0.5804215107293652
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,compound_event_severity,0.7847999999999999
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,social_sensitivity_index,0.6208
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,system_fragility_index,0.6744
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,cascade_potential,1.1283147451042441
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,justice_weighted_social_risk,0.9855261170209088
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,continuity_capacity,0.4444000000000001
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,compound_resilience_gap,0.5411261170209087
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,compound_event_severity,0.7687999999999999
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,social_sensitivity_index,0.626
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,system_fragility_index,0.5944
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,cascade_potential,1.0371685001954494
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,justice_weighted_social_risk,0.9320920763898676
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,continuity_capacity,0.4908
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,compound_resilience_gap,0.44129207638986756
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,compound_event_severity,0.59
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,social_sensitivity_index,0.40280000000000005
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,system_fragility_index,0.41680000000000006
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,cascade_potential,0.6398354540948479
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,justice_weighted_social_risk,0.5633805610217805
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,continuity_capacity,0.726
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,compound_resilience_gap,0
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,compound_event_severity,0.5431999999999999
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,social_sensitivity_index,0.3548
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,system_fragility_index,0.3756000000000001
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,cascade_potential,0.5725833117056282
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,justice_weighted_social_risk,0.49673173902174117
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,continuity_capacity,0.724
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,compound_resilience_gap,0

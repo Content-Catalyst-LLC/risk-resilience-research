@@ -1,0 +1,9 @@
+system_id,system_name,region,event_type,concurrent_hazard_intensity,sequential_hazard_pressure,exposure,social_vulnerability,infrastructure_fragility,health_system_strain,food_water_energy_stress,governance_readiness,cross_sector_dependency,recovery_deficit,inequality_pressure,ecological_buffer_condition,social_protection_capacity,communication_reliability
+CCSR001,Heat-drought-grid stress corridor,North America,heat_drought_power,0.84,0.72,0.78,0.58,0.66,0.62,0.70,0.48,0.78,0.60,0.62,0.38,0.44,0.52
+CCSR002,Flood-landslide-transport district,South Asia,flood_landslide_transport,0.88,0.80,0.84,0.78,0.74,0.66,0.68,0.42,0.82,0.72,0.80,0.34,0.36,0.44
+CCSR003,Drought-food-price-health region,Sub-Saharan Africa,drought_food_health,0.86,0.82,0.76,0.84,0.64,0.72,0.86,0.40,0.76,0.74,0.84,0.32,0.34,0.42
+CCSR004,Wildfire-smoke-heat public health zone,North America,wildfire_smoke_heat,0.82,0.74,0.72,0.62,0.58,0.76,0.54,0.54,0.70,0.58,0.60,0.42,0.48,0.54
+CCSR005,Coastal storm-surge-rainfall city,Small Islands,storm_surge_rainfall,0.90,0.86,0.88,0.80,0.78,0.70,0.72,0.42,0.84,0.76,0.82,0.40,0.36,0.46
+CCSR006,Post-fire flood watershed,Latin America,fire_flood_watershed,0.78,0.84,0.70,0.64,0.62,0.58,0.66,0.50,0.72,0.70,0.66,0.36,0.42,0.50
+CCSR007,Restored watershed heat-flood city,Europe,heat_flood_buffered,0.58,0.50,0.54,0.36,0.38,0.34,0.36,0.74,0.44,0.34,0.38,0.78,0.70,0.74
+CCSR008,Climate-resilient regional corridor,South America,compound_managed,0.62,0.56,0.58,0.40,0.42,0.38,0.44,0.76,0.48,0.38,0.42,0.74,0.72,0.76
