@@ -1,0 +1,49 @@
+system_id,system_name,sector,stress_context,metric,value
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,stress_load,1.165721744
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,resilience_capacity,0.41559999999999997
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,failure_pressure,0.9477084634371201
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,threshold_proximity,0.9750098226831717
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,service_continuity_gap,0.7501217440000001
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,stress_test_priority_score,1.4613751819391103
+STS001,Urban water system under multi-year drought,Water,drought_water_security,stress_load,1.0577266591999999
+STS001,Urban water system under multi-year drought,Water,drought_water_security,resilience_capacity,0.4636
+STS001,Urban water system under multi-year drought,Water,drought_water_security,failure_pressure,0.8370637235576959
+STS001,Urban water system under multi-year drought,Water,drought_water_security,threshold_proximity,0.82403136428794
+STS001,Urban water system under multi-year drought,Water,drought_water_security,service_continuity_gap,0.5941266591999999
+STS001,Urban water system under multi-year drought,Water,drought_water_security,stress_test_priority_score,1.2275376367007789
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,stress_load,0.9562101120000001
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,resilience_capacity,0.4532
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,failure_pressure,0.76120062175872
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,threshold_proximity,0.7394139437055366
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,service_continuity_gap,0.5030101120000001
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,stress_test_priority_score,1.1518049922969378
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,stress_load,0.9104960592
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,resilience_capacity,0.4212
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,failure_pressure,0.737920636139232
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,threshold_proximity,0.7455748928922371
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,service_continuity_gap,0.48929605919999997
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,stress_test_priority_score,1.145247271712283
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,stress_load,0.9660620736
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,resilience_capacity,0.5036
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,failure_pressure,0.7471330864807679
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,threshold_proximity,0.7084644130243473
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,service_continuity_gap,0.4624620735999999
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,stress_test_priority_score,1.0654246181585214
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,stress_load,0.762052608
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,resilience_capacity,0.37639999999999996
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,failure_pressure,0.63297613725696
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,threshold_proximity,0.6705848363252375
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,service_continuity_gap,0.385652608
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,stress_test_priority_score,1.000357300713833
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,stress_load,0.8385745759999997
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,resilience_capacity,0.5124000000000001
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,failure_pressure,0.6452160502659198
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,threshold_proximity,0.6022512036771039
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,service_continuity_gap,0.32617457599999966
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,stress_test_priority_score,0.931962497286986
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,stress_load,0.720366024
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,resilience_capacity,0.5548000000000001
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,failure_pressure,0.5405194424481601
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,threshold_proximity,0.4884499755899105
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,service_continuity_gap,0.16556602399999998
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,stress_test_priority_score,0.6115235154564687

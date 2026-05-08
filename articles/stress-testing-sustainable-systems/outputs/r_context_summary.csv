@@ -1,0 +1,9 @@
+stress_context,systems,mean_hazard_intensity,mean_exposure,mean_vulnerability,mean_interdependence,mean_threshold_proximity
+coastal_compound_hazard,1,0.88,0.86,0.78,0.7,0.9750098226831717
+drought_water_security,1,0.86,0.82,0.72,0.66,0.82403136428794
+flood_supply_chain_disruption,1,0.78,0.74,0.76,0.82,0.7455748928922371
+compound_public_health_stress,1,0.8,0.76,0.82,0.74,0.7394139437055366
+heat_grid_stress,1,0.82,0.78,0.64,0.78,0.7084644130243473
+fiscal_institutional_overload,1,0.72,0.68,0.8,0.72,0.6705848363252375
+cyber_service_continuity,1,0.76,0.7,0.74,0.84,0.6022512036771039
+ecosystem_buffer_stress,1,0.74,0.7,0.58,0.52,0.4884499755899105

@@ -1,0 +1,9 @@
+system_id,system_name,sector,stress_context,baseline_capacity,hazard_intensity,exposure,social_vulnerability,interdependence_exposure,redundancy,recovery_capacity,governance_capacity,monitoring_maturity,threshold_level
+STS001,Urban water system under multi-year drought,Water,drought_water_security,0.56,0.86,0.82,0.72,0.66,0.38,0.42,0.48,0.46,0.62
+STS002,Regional power grid under heat and demand surge,Energy,heat_grid_stress,0.60,0.82,0.78,0.64,0.78,0.42,0.46,0.50,0.52,0.66
+STS003,Hospital network under heat disease and supply shock,Health,compound_public_health_stress,0.58,0.80,0.76,0.82,0.74,0.36,0.40,0.46,0.44,0.64
+STS004,Food distribution system under flood and logistics disruption,Food Systems,flood_supply_chain_disruption,0.54,0.78,0.74,0.76,0.82,0.34,0.38,0.42,0.40,0.60
+STS005,Coastal infrastructure district under storm surge,Infrastructure,coastal_compound_hazard,0.52,0.88,0.86,0.78,0.70,0.32,0.36,0.44,0.42,0.58
+STS006,Local government under fiscal and disaster response pressure,Governance,fiscal_institutional_overload,0.48,0.72,0.68,0.80,0.72,0.30,0.34,0.38,0.36,0.56
+STS007,Digital public service system under cyber outage,Digital Systems,cyber_service_continuity,0.62,0.76,0.70,0.74,0.84,0.44,0.46,0.52,0.50,0.68
+STS008,Wetland buffer system under flood and land-use pressure,Ecosystems,ecosystem_buffer_stress,0.66,0.74,0.70,0.58,0.52,0.54,0.56,0.50,0.48,0.72
