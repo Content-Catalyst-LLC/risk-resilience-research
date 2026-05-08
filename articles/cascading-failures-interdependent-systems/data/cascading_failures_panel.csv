@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,stress_type,initiating_shock_severity,dependency_density,hidden_coupling,critical_node_exposure,backup_capacity,modularity_capacity,cross_sector_coordination,restoration_speed,redundancy_capacity,social_vulnerability,governance_readiness,system_criticality,cascade_exposure,monitoring_capacity,public_trust
+CFI001,Power-water-health corridor,critical_infrastructure,North America,heat_outage_water_health,0.78,0.86,0.74,0.82,0.38,0.34,0.46,0.42,0.40,0.58,0.50,0.92,0.84,0.54,0.52
+CFI002,Urban flood logistics network,urban_watershed,South Asia,flood_transport_supply,0.84,0.78,0.70,0.76,0.32,0.36,0.42,0.38,0.34,0.74,0.44,0.86,0.80,0.46,0.44
+CFI003,Hospital supply-chain dependency,public_health,Latin America,medical_supply_disruption,0.72,0.82,0.76,0.78,0.30,0.32,0.48,0.36,0.28,0.76,0.46,0.90,0.74,0.50,0.48
+CFI004,Centralized civic cloud platform,digital_infrastructure,Asia,cyber_administration_outage,0.70,0.84,0.80,0.80,0.34,0.28,0.50,0.44,0.30,0.46,0.54,0.84,0.82,0.66,0.56
+CFI005,Regional food-water-energy nexus,food_water_energy,Sub-Saharan Africa,drought_energy_supply,0.86,0.74,0.66,0.70,0.28,0.34,0.40,0.34,0.32,0.82,0.40,0.78,0.76,0.42,0.42
+CFI006,Port logistics and fuel network,supply_chain,Global,trade_fuel_disruption,0.76,0.88,0.82,0.84,0.36,0.30,0.52,0.40,0.34,0.54,0.50,0.88,0.86,0.58,0.50
+CFI007,Distributed microgrid community network,energy_system,Europe,storm_grid_stress,0.52,0.42,0.36,0.44,0.74,0.76,0.70,0.68,0.72,0.32,0.72,0.66,0.42,0.76,0.74
+CFI008,Regenerative watershed-city resilience region,regional_transition,South America,compound_climate_stress,0.58,0.48,0.40,0.46,0.70,0.78,0.76,0.70,0.74,0.36,0.78,0.70,0.46,0.78,0.76
