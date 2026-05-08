@@ -1,0 +1,9 @@
+solution_type,projects,mean_ecosystem_condition,mean_biodiversity_benefit,mean_social_legitimacy,mean_buffer_effectiveness,mean_resilience_gap
+reef_seagrass_recovery,1,0.38,0.44,0.44,0.49987318079999993,0.9809230524315293
+urban_tree_canopy,1,0.56,0.46,0.48,0.589473548032,0.6851562365469751
+mangrove_recovery,1,0.5,0.6,0.5,0.6468525888000001,0.6318934131278222
+wetland_restoration,1,0.58,0.62,0.56,0.6853564224,0.27568058625056635
+soil_agroecology,1,0.6,0.68,0.6,0.73985998592,0.20364894661755628
+floodplain_reconnection,1,0.54,0.58,0.62,0.7301335453440001,0.09613695427623259
+green_corridor,1,0.66,0.62,0.78,0.8866402612479999,0
+watershed_restoration,1,0.64,0.66,0.64,0.7884451196160002,0

@@ -1,0 +1,9 @@
+project_id,project_name,region,solution_type,ecosystem_condition,biodiversity_benefit,ecological_connectivity,intervention_quality,governance_capacity,maintenance_capacity,hazard_pressure,exposure,social_vulnerability,social_legitimacy,livelihood_benefit,displacement_pressure
+NBS001,Urban wetland restoration district,North America,wetland_restoration,0.58,0.62,0.52,0.60,0.54,0.48,0.76,0.72,0.58,0.56,0.50,0.38
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,0.54,0.58,0.68,0.62,0.60,0.54,0.72,0.66,0.46,0.62,0.48,0.34
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,0.50,0.60,0.54,0.58,0.46,0.42,0.86,0.82,0.76,0.50,0.68,0.44
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,0.56,0.46,0.42,0.54,0.52,0.44,0.82,0.78,0.70,0.48,0.46,0.66
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,0.64,0.66,0.62,0.68,0.58,0.56,0.70,0.64,0.60,0.64,0.58,0.30
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,0.38,0.44,0.46,0.42,0.40,0.36,0.88,0.84,0.78,0.44,0.62,0.36
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,0.60,0.68,0.58,0.64,0.48,0.46,0.74,0.68,0.80,0.60,0.72,0.28
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,0.66,0.62,0.72,0.70,0.72,0.68,0.70,0.66,0.64,0.78,0.62,0.18

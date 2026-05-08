@@ -1,0 +1,57 @@
+project_id,project_name,region,solution_type,metric,value
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,nbs_integrity,0.41
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,hazard_vulnerability_pressure,0.9410015999999999
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,buffer_effectiveness,0.49987318079999993
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,nature_adjusted_risk,0.6563969475133948
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,credibility_risk,0.5436000000000001
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,justice_weighted_nbs_risk,1.4807962332315292
+NBS006,Reef and seagrass coastal buffer,Small Islands,reef_seagrass_recovery,nbs_resilience_gap,0.9809230524315293
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,nbs_integrity,0.49240000000000006
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,hazard_vulnerability_pressure,0.7963019999999998
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,buffer_effectiveness,0.589473548032
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,nature_adjusted_risk,0.5090130451065911
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,credibility_risk,0.5444
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,justice_weighted_nbs_risk,1.2746297845789751
+NBS004,Urban canopy and heat resilience program,North America,urban_tree_canopy,nbs_resilience_gap,0.6851562365469751
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,nbs_integrity,0.5192
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,hazard_vulnerability_pressure,0.8927831999999999
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,buffer_effectiveness,0.6468525888000001
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,nature_adjusted_risk,0.5601241058044156
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,credibility_risk,0.4812
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,justice_weighted_nbs_risk,1.2787460019278223
+NBS003,Mangrove recovery and coastal livelihoods zone,South Asia,mangrove_recovery,nbs_resilience_gap,0.6318934131278222
+NBS001,Urban wetland restoration district,North America,wetland_restoration,nbs_integrity,0.5598
+NBS001,Urban wetland restoration district,North America,wetland_restoration,hazard_vulnerability_pressure,0.6582816
+NBS001,Urban wetland restoration district,North America,wetland_restoration,buffer_effectiveness,0.6853564224
+NBS001,Urban wetland restoration district,North America,wetland_restoration,nature_adjusted_risk,0.3938005184417091
+NBS001,Urban wetland restoration district,North America,wetland_restoration,credibility_risk,0.4248
+NBS001,Urban wetland restoration district,North America,wetland_restoration,justice_weighted_nbs_risk,0.9610370086505664
+NBS001,Urban wetland restoration district,North America,wetland_restoration,nbs_resilience_gap,0.27568058625056635
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,nbs_integrity,0.5786
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,hazard_vulnerability_pressure,0.644096
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,buffer_effectiveness,0.73985998592
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,nature_adjusted_risk,0.3780943004335131
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,credibility_risk,0.3828
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,justice_weighted_nbs_risk,0.9435089325375563
+NBS007,Soil regeneration and agroecology landscape,Sub-Saharan Africa,soil_agroecology,nbs_resilience_gap,0.20364894661755628
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,nbs_integrity,0.5914
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,hazard_vulnerability_pressure,0.5517072000000001
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,buffer_effectiveness,0.7301335453440001
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,nature_adjusted_risk,0.31487249527261224
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,credibility_risk,0.4112
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,justice_weighted_nbs_risk,0.8262704996202327
+NBS002,Floodplain reconnection corridor,Europe,floodplain_reconnection,nbs_resilience_gap,0.09613695427623259
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,nbs_integrity,0.6258
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,hazard_vulnerability_pressure,0.5420799999999999
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,buffer_effectiveness,0.7884451196160002
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,nature_adjusted_risk,0.2990361228626554
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,credibility_risk,0.3572
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,justice_weighted_nbs_risk,0.7743586249779334
+NBS005,Watershed restoration and drinking-water protection,Latin America,watershed_restoration,nbs_resilience_gap,0
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,nbs_integrity,0.6808
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,hazard_vulnerability_pressure,0.565488
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,buffer_effectiveness,0.8866402612479999
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,nature_adjusted_risk,0.2786893060485873
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,credibility_risk,0.28759999999999997
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,justice_weighted_nbs_risk,0.6750168528099161
+NBS008,Green corridor with anti-displacement safeguards,North America,green_corridor,nbs_resilience_gap,0
