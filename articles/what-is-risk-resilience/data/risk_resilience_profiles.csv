@@ -1,0 +1,6 @@
+system_name,system_type,hazard_pressure,exposure,vulnerability,protective_capacity,robustness,redundancy,adaptive_capacity,recovery_capacity,transformation_capacity,justice_legitimacy,baseline_function,minimum_function_after_shock,recovery_days
+coastal_floodplain_neighborhood,community,0.86,0.82,0.78,0.42,0.40,0.36,0.46,0.38,0.44,0.40,1.00,0.38,90
+regional_food_supply_chain,supply_chain,0.72,0.70,0.64,0.50,0.48,0.42,0.56,0.52,0.46,0.48,1.00,0.52,45
+urban_heat_response_system,public_health,0.80,0.76,0.68,0.60,0.58,0.54,0.66,0.62,0.56,0.62,1.00,0.60,20
+distributed_water_infrastructure,critical_infrastructure,0.62,0.66,0.48,0.70,0.74,0.70,0.64,0.68,0.58,0.66,1.00,0.72,14
+debt_constrained_public_health_region,regional_governance,0.70,0.74,0.82,0.34,0.36,0.30,0.40,0.32,0.38,0.36,1.00,0.34,120
