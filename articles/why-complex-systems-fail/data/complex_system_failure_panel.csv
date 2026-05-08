@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,stress_type,dependency_density,hidden_coupling,feedback_delay,signal_visibility,buffer_capacity,redundancy_capacity,modularity_capacity,adaptation_debt,optimization_pressure,maintenance_deficit,monitoring_capacity,governance_coordination,social_vulnerability,system_criticality,external_stress
+CSF001,Regional electricity-water-health nexus,critical_infrastructure,North America,compound_heat_outage,0.88,0.74,0.56,0.42,0.38,0.44,0.36,0.66,0.78,0.62,0.54,0.48,0.58,0.92,0.74
+CSF002,Just-in-time medical supply chain,health_supply_chain,Global,supply_disruption,0.84,0.82,0.48,0.46,0.32,0.28,0.34,0.72,0.86,0.54,0.50,0.42,0.52,0.88,0.68
+CSF003,Degraded watershed flood system,watershed_ecology,South America,flood_landslide,0.58,0.52,0.70,0.44,0.40,0.46,0.54,0.62,0.54,0.60,0.46,0.48,0.50,0.70,0.72
+CSF004,Centralized civic cloud platform,digital_infrastructure,Asia,cyber_outage,0.82,0.78,0.42,0.58,0.34,0.30,0.28,0.58,0.80,0.48,0.66,0.52,0.42,0.84,0.64
+CSF005,Urban heat-response network,public_health,North America,extreme_heat,0.66,0.58,0.52,0.50,0.44,0.48,0.42,0.56,0.64,0.52,0.58,0.54,0.64,0.82,0.78
+CSF006,Monoculture export agriculture region,food_system,Sub-Saharan Africa,drought_heat,0.72,0.64,0.62,0.38,0.30,0.32,0.30,0.74,0.76,0.66,0.42,0.40,0.76,0.74,0.82
+CSF007,Distributed microgrid community network,energy_system,Europe,storm_grid_stress,0.44,0.36,0.38,0.72,0.68,0.74,0.76,0.30,0.42,0.32,0.74,0.68,0.34,0.70,0.56
+CSF008,Regenerative watershed-city region,regional_transition,Europe,compound_climate_stress,0.42,0.34,0.40,0.76,0.74,0.70,0.78,0.28,0.36,0.30,0.78,0.74,0.30,0.62,0.50
