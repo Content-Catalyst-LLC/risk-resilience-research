@@ -1,0 +1,49 @@
+system_id,system_name,sector,region,metric,value
+CIR003,Metropolitan hospital network,Health,North America,failure_pressure,0.406368
+CIR003,Metropolitan hospital network,Health,North America,interdependence_exposure,1.3769657952
+CIR003,Metropolitan hospital network,Health,North America,resilience_capacity,0.4948000000000001
+CIR003,Metropolitan hospital network,Health,North America,cascading_infrastructure_risk,1.6856881379106938
+CIR003,Metropolitan hospital network,Health,North America,service_continuity_gap,0.42519999999999997
+CIR003,Metropolitan hospital network,Health,North America,recovery_priority_score,2.218508137910694
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,failure_pressure,0.4170348
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,interdependence_exposure,1.19653164
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,resilience_capacity,0.44799999999999995
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,cascading_infrastructure_risk,1.5433491919438078
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,service_continuity_gap,0.43200000000000005
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,recovery_priority_score,2.051549191943808
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,failure_pressure,0.337290624
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,interdependence_exposure,1.38328411296
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,resilience_capacity,0.5264
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,cascading_infrastructure_risk,1.5808580118957738
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,service_continuity_gap,0.29359999999999997
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,recovery_priority_score,2.0346180118957737
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,failure_pressure,0.407151648
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,interdependence_exposure,1.1469957062399998
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,resilience_capacity,0.4252
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,cascading_infrastructure_risk,1.4829966233860672
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,service_continuity_gap,0.3748
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,recovery_priority_score,1.9391766233860674
+CIR004,Freight and emergency transport corridor,Transport,North America,failure_pressure,0.5429318399999999
+CIR004,Freight and emergency transport corridor,Transport,North America,interdependence_exposure,0.91289620992
+CIR004,Freight and emergency transport corridor,Transport,North America,resilience_capacity,0.3828
+CIR004,Freight and emergency transport corridor,Transport,North America,cascading_infrastructure_risk,1.4291858725083662
+CIR004,Freight and emergency transport corridor,Transport,North America,service_continuity_gap,0.4572
+CIR004,Freight and emergency transport corridor,Transport,North America,recovery_priority_score,1.933205872508366
+CIR002,Urban drinking water treatment and pumping system,Water,North America,failure_pressure,0.5077814880000001
+CIR002,Urban drinking water treatment and pumping system,Water,North America,interdependence_exposure,0.7247764079999999
+CIR002,Urban drinking water treatment and pumping system,Water,North America,resilience_capacity,0.4028
+CIR002,Urban drinking water treatment and pumping system,Water,North America,cascading_infrastructure_risk,1.2210647866429583
+CIR002,Urban drinking water treatment and pumping system,Water,North America,service_continuity_gap,0.4572
+CIR002,Urban drinking water treatment and pumping system,Water,North America,recovery_priority_score,1.7510847866429582
+CIR001,Regional electric distribution grid,Energy,North America,failure_pressure,0.532420512
+CIR001,Regional electric distribution grid,Energy,North America,interdependence_exposure,0.38472398399999996
+CIR001,Regional electric distribution grid,Energy,North America,resilience_capacity,0.4664
+CIR001,Regional electric distribution grid,Energy,North America,cascading_infrastructure_risk,0.8637878173419877
+CIR001,Regional electric distribution grid,Energy,North America,service_continuity_gap,0.4136
+CIR001,Regional electric distribution grid,Energy,North America,recovery_priority_score,1.371547817341988
+CIR006,Payment and municipal finance operations platform,Finance,North America,failure_pressure,0.21201523199999997
+CIR006,Payment and municipal finance operations platform,Finance,North America,interdependence_exposure,0.96338712096
+CIR006,Payment and municipal finance operations platform,Finance,North America,resilience_capacity,0.548
+CIR006,Payment and municipal finance operations platform,Finance,North America,cascading_infrastructure_risk,1.013067063831753
+CIR006,Payment and municipal finance operations platform,Finance,North America,service_continuity_gap,0.1519999999999999
+CIR006,Payment and municipal finance operations platform,Finance,North America,recovery_priority_score,1.357267063831753

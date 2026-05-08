@@ -1,0 +1,9 @@
+system_id,system_name,sector,region,criticality,hazard_exposure,asset_fragility,cyber_physical_risk,redundancy,maintenance_capacity,governance_capacity,recovery_capacity,backup_capacity,workforce_readiness,service_demand_under_stress,social_vulnerability
+CIR001,Regional electric distribution grid,Energy,North America,0.94,0.78,0.58,0.72,0.46,0.42,0.50,0.48,0.44,0.52,0.88,0.64
+CIR002,Urban drinking water treatment and pumping system,Water,North America,0.92,0.74,0.62,0.58,0.38,0.36,0.46,0.42,0.34,0.48,0.86,0.70
+CIR003,Metropolitan hospital network,Health,North America,0.96,0.68,0.50,0.70,0.44,0.48,0.54,0.52,0.46,0.56,0.92,0.72
+CIR004,Freight and emergency transport corridor,Transport,North America,0.88,0.82,0.66,0.40,0.36,0.34,0.44,0.40,0.32,0.46,0.84,0.62
+CIR005,Telecommunications and emergency communications backbone,Communications,North America,0.90,0.70,0.52,0.78,0.42,0.46,0.48,0.44,0.40,0.50,0.88,0.66
+CIR006,Payment and municipal finance operations platform,Finance,North America,0.78,0.48,0.44,0.82,0.52,0.56,0.58,0.54,0.50,0.60,0.70,0.48
+CIR007,Food logistics cold-chain and distribution hub,Food Logistics,North America,0.82,0.72,0.58,0.54,0.40,0.42,0.46,0.44,0.36,0.48,0.80,0.60
+CIR008,Local emergency operations and public warning system,Emergency Services,North America,0.86,0.66,0.48,0.68,0.44,0.50,0.60,0.58,0.46,0.62,0.82,0.68
