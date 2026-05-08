@@ -1,0 +1,9 @@
+place_id,place_name,region,mobility_context,hazard_pressure,livelihood_stress,conflict_insecurity_pressure,exposure,social_vulnerability,adaptive_capacity,mobility_resources,protection_access,migration_network_strength,destination_service_capacity,host_community_support,recovery_capacity,arrival_pressure
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,0.82,0.86,0.42,0.74,0.78,0.38,0.36,0.34,0.52,0.42,0.46,0.38,0.64
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,0.72,0.76,0.90,0.82,0.84,0.30,0.28,0.26,0.48,0.34,0.36,0.30,0.86
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,0.86,0.64,0.30,0.82,0.66,0.48,0.44,0.46,0.50,0.42,0.44,0.40,0.58
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,0.88,0.72,0.44,0.86,0.82,0.34,0.30,0.32,0.42,0.36,0.38,0.34,0.78
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,0.56,0.62,0.24,0.54,0.58,0.58,0.62,0.54,0.76,0.58,0.60,0.56,0.48
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,0.78,0.68,0.22,0.80,0.76,0.40,0.24,0.36,0.30,0.54,0.48,0.42,0.40
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,0.52,0.42,0.18,0.46,0.36,0.78,0.76,0.82,0.70,0.78,0.76,0.74,0.34
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,0.86,0.88,0.78,0.84,0.86,0.28,0.26,0.24,0.40,0.32,0.34,0.28,0.88

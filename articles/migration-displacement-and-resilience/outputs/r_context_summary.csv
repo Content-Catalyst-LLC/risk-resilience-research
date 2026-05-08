@@ -1,0 +1,9 @@
+mobility_context,places,mean_hazard_pressure,mean_livelihood_stress,mean_conflict_pressure,mean_adaptive_capacity,mean_resilience_gap
+compound_climate_conflict,1,0.86,0.88,0.78,0.30080000000000007,1.331233265451659
+conflict_forced_displacement,1,0.72,0.76,0.9,0.3292,1.1962963500770372
+flood_displacement_informality,1,0.88,0.72,0.44,0.35000000000000003,1.0026056044545455
+drought_livelihood_mobility,1,0.82,0.86,0.42,0.4062,0.7461632521983105
+coastal_planned_relocation,1,0.86,0.64,0.3,0.45039999999999997,0.5544982514609689
+involuntary_immobility_heat,1,0.78,0.68,0.22,0.38800000000000007,0.5121774517908377
+seasonal_labor_remittances,1,0.56,0.62,0.24,0.605,0.06976075607033494
+planned_adaptive_mobility,1,0.52,0.42,0.18,0.7647999999999999,0

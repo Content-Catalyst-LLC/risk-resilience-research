@@ -1,0 +1,49 @@
+place_id,place_name,region,mobility_context,metric,value
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,mobility_pressure,0.8444000000000002
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,adaptive_mobility_capacity,0.30080000000000007
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,forced_displacement_risk,0.949862722816
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,trapped_population_risk,0
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,destination_stress,0.6821705426356589
+MDR008,Climate-conflict food insecurity displacement area,East Africa,compound_climate_conflict,mobility_resilience_gap,1.331233265451659
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,mobility_pressure,0.806
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,adaptive_mobility_capacity,0.3292
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,forced_displacement_risk,0.88845931304
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,trapped_population_risk,0
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,destination_stress,0.6370370370370371
+MDR002,Conflict displacement and host-service pressure zone,Middle East and North Africa,conflict_forced_displacement,mobility_resilience_gap,1.1962963500770372
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,mobility_pressure,0.7444000000000001
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,adaptive_mobility_capacity,0.35000000000000003
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,forced_displacement_risk,0.807151059
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,trapped_population_risk,0
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,destination_stress,0.5454545454545455
+MDR004,Flood-displacement urban settlement,South Asia,flood_displacement_informality,mobility_resilience_gap,1.0026056044545455
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,mobility_pressure,0.7256
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,adaptive_mobility_capacity,0.4062
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,forced_displacement_risk,0.754847724248
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,trapped_population_risk,0
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,destination_stress,0.3975155279503106
+MDR001,Drought-affected livelihood migration corridor,Sub-Saharan Africa,drought_livelihood_mobility,mobility_resilience_gap,0.7461632521983105
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,mobility_pressure,0.6568
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,adaptive_mobility_capacity,0.45039999999999997
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,forced_displacement_risk,0.6446498042559999
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,trapped_population_risk,0
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,destination_stress,0.36024844720496896
+MDR003,Coastal relocation planning district,Small Islands,coastal_planned_relocation,mobility_resilience_gap,0.5544982514609689
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,mobility_pressure,0.6476
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,adaptive_mobility_capacity,0.38800000000000007
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,forced_displacement_risk,0.6767137646399999
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,trapped_population_risk,0
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,destination_stress,0.223463687150838
+MDR006,Trapped heat-exposed urban poor district,North America,involuntary_immobility_heat,mobility_resilience_gap,0.5121774517908377
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,mobility_pressure,0.5084
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,adaptive_mobility_capacity,0.605
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,forced_displacement_risk,0.44509568429999996
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,trapped_population_risk,0
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,destination_stress,0.22966507177033493
+MDR005,Seasonal labor migration and remittance network,South Asia,seasonal_labor_remittances,mobility_resilience_gap,0.06976075607033494
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,mobility_pressure,0.38920000000000005
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,adaptive_mobility_capacity,0.7647999999999999
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,forced_displacement_risk,0.287414796928
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,trapped_population_risk,0
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,destination_stress,0.12927756653992398
+MDR007,High-capacity adaptive mobility region,Europe,planned_adaptive_mobility,mobility_resilience_gap,0
