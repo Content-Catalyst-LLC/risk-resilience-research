@@ -1,0 +1,57 @@
+system_id,system_name,domain,region,stress_type,metric,value
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,recovery_score,0.3556
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,adaptation_score,0.4228
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,transformation_score,0.4792
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,transformation_need,0.7484
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,pathway_gap,1.305216
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,maladaptation_adjusted_gap,2.06224128
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,climate_resilient_development_score,0.418376
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,recovery_score,0.3824000000000001
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,adaptation_score,0.4012
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,transformation_score,0.46799999999999997
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,transformation_need,0.7636
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,pathway_gap,1.223376
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,maladaptation_adjusted_gap,1.9818691200000003
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,climate_resilient_development_score,0.417016
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,recovery_score,0.4556
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,adaptation_score,0.5136000000000001
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,transformation_score,0.568
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,transformation_need,0.7512
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,pathway_gap,1.1712160000000003
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,maladaptation_adjusted_gap,1.8739456000000005
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,climate_resilient_development_score,0.503104
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,recovery_score,0.4680000000000001
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,adaptation_score,0.498
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,transformation_score,0.5376000000000001
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,transformation_need,0.5404
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,pathway_gap,0.8734559999999998
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,maladaptation_adjusted_gap,1.3276531199999997
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,climate_resilient_development_score,0.507096
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,recovery_score,0.5556000000000001
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,adaptation_score,0.548
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,transformation_score,0.5744
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,transformation_need,0.5896
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,pathway_gap,0.8420959999999998
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,maladaptation_adjusted_gap,1.2631439999999998
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,climate_resilient_development_score,0.5542880000000001
+ART004,Urban heat response system,public_health,North America,extreme_heat,recovery_score,0.6224000000000001
+ART004,Urban heat response system,public_health,North America,extreme_heat,adaptation_score,0.6156
+ART004,Urban heat response system,public_health,North America,extreme_heat,transformation_score,0.5968
+ART004,Urban heat response system,public_health,North America,extreme_heat,transformation_need,0.5924
+ART004,Urban heat response system,public_health,North America,extreme_heat,pathway_gap,0.7888799999999999
+ART004,Urban heat response system,public_health,North America,extreme_heat,maladaptation_adjusted_gap,1.1517647999999998
+ART004,Urban heat response system,public_health,North America,extreme_heat,climate_resilient_development_score,0.604424
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,recovery_score,0.6756
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,adaptation_score,0.6912
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,transformation_score,0.6524000000000001
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,transformation_need,0.4228
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,pathway_gap,0.39102400000000004
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,maladaptation_adjusted_gap,0.5161516800000001
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,climate_resilient_development_score,0.6679280000000001
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,recovery_score,0.7156
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,adaptation_score,0.7736
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,transformation_score,0.7872
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,transformation_need,0.31279999999999997
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,pathway_gap,0.14100800000000013
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,maladaptation_adjusted_gap,0.17484992000000016
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,climate_resilient_development_score,0.7604959999999998

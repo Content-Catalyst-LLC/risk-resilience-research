@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,stress_type,disruption_severity,recovery_capacity,recovery_speed,essential_function_restoration,adaptive_capacity,governance_capacity,learning_capacity,ecological_buffer_capacity,social_protection_capacity,transformation_readiness,structural_unsustainability,justice_pressure,maladaptation_risk,residual_risk,public_legitimacy
+ART001,Coastal floodplain settlement,urban_social_system,South Asia,storm_surge_flood,0.86,0.38,0.34,0.42,0.44,0.40,0.46,0.36,0.32,0.58,0.82,0.76,0.62,0.78,0.44
+ART002,Dryland agricultural basin,food_water_system,Sub-Saharan Africa,drought_heat,0.90,0.36,0.32,0.38,0.48,0.42,0.44,0.40,0.34,0.62,0.80,0.72,0.58,0.82,0.40
+ART003,Aging industrial river corridor,industrial_region,Europe,compound_pollution_flood,0.74,0.56,0.52,0.58,0.60,0.62,0.58,0.36,0.54,0.56,0.68,0.46,0.50,0.66,0.56
+ART004,Urban heat response system,public_health,North America,extreme_heat,0.78,0.62,0.58,0.66,0.68,0.64,0.66,0.48,0.58,0.54,0.60,0.64,0.46,0.62,0.60
+ART005,Island food energy water system,island_system,Pacific,cyclone_sea_level,0.88,0.46,0.42,0.48,0.52,0.50,0.54,0.56,0.44,0.70,0.84,0.68,0.60,0.80,0.50
+ART006,Restored watershed mosaic,watershed_ecology,South America,flood_drought,0.62,0.68,0.64,0.70,0.72,0.64,0.74,0.78,0.56,0.66,0.46,0.42,0.32,0.44,0.62
+ART007,Centralized cloud-dependent civic platform,digital_infrastructure,Asia,cyber_outage,0.70,0.46,0.44,0.50,0.52,0.58,0.54,0.34,0.48,0.52,0.58,0.38,0.52,0.68,0.56
+ART008,Regenerative regional transition,regional_transition,Europe,heat_drought,0.54,0.72,0.68,0.74,0.78,0.76,0.80,0.82,0.70,0.84,0.34,0.28,0.24,0.36,0.76

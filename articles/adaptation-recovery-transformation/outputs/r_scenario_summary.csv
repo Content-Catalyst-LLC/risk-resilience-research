@@ -1,0 +1,6 @@
+scenario,mean_recovery,mean_adaptation,mean_transformation,mean_transformation_need,mean_pathway_gap,mean_maladaptation_gap,mean_crd_score
+climate_resilient_development,0.70885,0.79465,0.8246,0.571718,0.559342,0.7954250864000001,0.769131
+justice_centered_transformation,0.62885,0.7472,0.81025,0.57479,0.627306,0.90402648,0.728029
+adaptive_pathways,0.60885,0.7272,0.71575,0.5809340000000001,0.683622,1.013624992,0.677587
+recovery_upgrade,0.74885,0.6252,0.64815,0.587078,0.7159439999999999,1.0914088704,0.655139
+baseline,0.52885,0.558,0.58295,0.59015,0.842034,1.29395244,0.554091
