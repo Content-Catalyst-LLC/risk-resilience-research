@@ -1,0 +1,9 @@
+system_id,system_name,domain,region,stress_type,stress_load,stress_rate,resilience_margin,buffer_capacity,monitoring_capacity,feedback_destabilization,threshold_proximity,interdependency_density,cascade_exposure,governance_readiness,recovery_capacity,social_vulnerability,justice_pressure,system_criticality,regime_shift_reversibility
+TTP001,Coastal watershed city,urban_watershed,South Asia,flood_surge_drainage,0.84,0.62,0.34,0.38,0.42,0.68,0.76,0.72,0.78,0.46,0.44,0.68,0.72,0.86,0.38
+TTP002,Electrical grid and water utility nexus,critical_infrastructure,North America,heat_outage_water,0.78,0.54,0.40,0.44,0.58,0.62,0.70,0.84,0.82,0.52,0.50,0.56,0.58,0.92,0.44
+TTP003,Eutrophic lake watershed,watershed_ecology,Europe,nutrient_loading,0.74,0.48,0.36,0.42,0.50,0.76,0.82,0.46,0.52,0.58,0.40,0.38,0.42,0.70,0.30
+TTP004,Dryland agricultural region,food_water_system,Sub-Saharan Africa,drought_heat_groundwater,0.88,0.66,0.28,0.30,0.40,0.72,0.84,0.64,0.68,0.42,0.36,0.80,0.78,0.76,0.34
+TTP005,Hospital emergency network,public_health,Latin America,compound_heat_disease,0.80,0.58,0.32,0.34,0.52,0.64,0.72,0.70,0.74,0.48,0.46,0.76,0.74,0.90,0.42
+TTP006,Centralized civic cloud platform,digital_infrastructure,Asia,cyber_outage,0.72,0.50,0.38,0.36,0.64,0.58,0.66,0.82,0.80,0.54,0.48,0.42,0.46,0.84,0.50
+TTP007,Restored wetland floodplain,ecological_infrastructure,Europe,flood_rainfall,0.54,0.36,0.70,0.76,0.68,0.34,0.38,0.42,0.40,0.74,0.72,0.30,0.28,0.62,0.74
+TTP008,Regenerative regional transition,regional_transition,South America,compound_climate_stress,0.58,0.40,0.66,0.72,0.74,0.38,0.42,0.48,0.46,0.78,0.70,0.34,0.32,0.66,0.70
