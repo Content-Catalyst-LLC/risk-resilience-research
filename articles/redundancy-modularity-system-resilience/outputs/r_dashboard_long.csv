@@ -1,0 +1,57 @@
+system_id,system_name,domain,region,stress_type,metric,value
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,redundancy_index,0.3292
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,modularity_index,0.344
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,resilience_design_capacity,0.35516000000000003
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,propagation_pressure,2.5398216049599993
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,continuity_capacity,0.36737600000000004
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,efficiency_fragility_pressure,0.6960000000000001
+RMS005,Regional food-water system,food_water_system,Sub-Saharan Africa,drought_supply,justice_weighted_resilience_gap,1.3316937047252537
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,redundancy_index,0.3484
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,modularity_index,0.34600000000000003
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,resilience_design_capacity,0.37552
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,propagation_pressure,2.6388473569920006
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,continuity_capacity,0.394752
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,efficiency_fragility_pressure,0.6892
+RMS002,Urban flood transport network,urban_watershed,South Asia,flood_transport,justice_weighted_resilience_gap,1.3045417718830363
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,redundancy_index,0.2952
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,modularity_index,0.2884
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,resilience_design_capacity,0.34868
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,propagation_pressure,2.4865032759839996
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,continuity_capacity,0.3814560000000001
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,efficiency_fragility_pressure,0.7472
+RMS003,Hospital supply chain,public_health,Latin America,supply_surge,justice_weighted_resilience_gap,1.2957796957888394
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,redundancy_index,0.3308
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,modularity_index,0.2596
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,resilience_design_capacity,0.37232
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,propagation_pressure,2.8634753056127993
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,continuity_capacity,0.421024
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,efficiency_fragility_pressure,0.7808
+RMS006,Port logistics network,supply_chain,Global,trade_disruption,justice_weighted_resilience_gap,1.2659741117415046
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,redundancy_index,0.3664
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,modularity_index,0.2964
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,resilience_design_capacity,0.38964
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,propagation_pressure,2.753713475136
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,continuity_capacity,0.42779200000000006
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,efficiency_fragility_pressure,0.7228000000000001
+RMS001,Power-water-health corridor,critical_infrastructure,North America,heat_outage,justice_weighted_resilience_gap,1.2315942867352856
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,redundancy_index,0.35640000000000005
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,modularity_index,0.25160000000000005
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,resilience_design_capacity,0.39920000000000005
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,propagation_pressure,2.5705737435839993
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,continuity_capacity,0.45499200000000006
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,efficiency_fragility_pressure,0.7627999999999999
+RMS004,Civic cloud platform,digital_infrastructure,Asia,cyber_outage,justice_weighted_resilience_gap,1.050785784867521
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,redundancy_index,0.7152000000000001
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,modularity_index,0.7212
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,resilience_design_capacity,0.73132
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,propagation_pressure,0.9543478424679998
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,continuity_capacity,0.744656
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,efficiency_fragility_pressure,0.368
+RMS008,Restored wetland-city resilience region,regional_transition,South America,compound_climate_stress,justice_weighted_resilience_gap,0
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,redundancy_index,0.7328
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,modularity_index,0.7192000000000001
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,resilience_design_capacity,0.726
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,propagation_pressure,0.8029243249247998
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,continuity_capacity,0.7311840000000002
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,efficiency_fragility_pressure,0.34800000000000003
+RMS007,Distributed microgrid region,energy_system,Europe,storm_grid_stress,justice_weighted_resilience_gap,0
