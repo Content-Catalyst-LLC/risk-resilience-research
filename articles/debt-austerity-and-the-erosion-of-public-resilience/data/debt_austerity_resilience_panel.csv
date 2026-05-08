@@ -1,0 +1,9 @@
+system_id,system_name,region,fiscal_context,debt_service_burden,revenue_capacity,essential_service_spending,public_investment,maintenance_capacity,adaptation_drr_spending,social_protection_capacity,governance_capacity,local_government_capacity,essential_service_cuts,public_investment_cuts,maintenance_deferral,adaptation_deferral,social_protection_cuts,public_workforce_stress,social_vulnerability,hazard_exposure,inequality_pressure,prior_deferred_risk
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,0.82,0.38,0.42,0.34,0.30,0.28,0.36,0.40,0.34,0.62,0.68,0.72,0.76,0.58,0.64,0.78,0.84,0.76,0.70
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,0.68,0.46,0.38,0.36,0.34,0.32,0.30,0.44,0.40,0.76,0.62,0.66,0.58,0.74,0.70,0.72,0.64,0.78,0.68
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,0.54,0.62,0.58,0.42,0.28,0.40,0.52,0.60,0.50,0.44,0.56,0.82,0.54,0.38,0.46,0.50,0.70,0.58,0.74
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,0.78,0.42,0.46,0.38,0.36,0.26,0.42,0.46,0.38,0.52,0.60,0.58,0.82,0.48,0.54,0.64,0.88,0.62,0.72
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,0.66,0.48,0.44,0.40,0.38,0.36,0.28,0.50,0.44,0.64,0.56,0.52,0.50,0.82,0.58,0.82,0.72,0.80,0.66
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,0.34,0.78,0.76,0.74,0.72,0.70,0.74,0.76,0.72,0.18,0.20,0.22,0.20,0.18,0.24,0.34,0.46,0.32,0.26
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,0.62,0.44,0.48,0.36,0.32,0.34,0.38,0.42,0.26,0.60,0.64,0.70,0.62,0.56,0.68,0.68,0.66,0.70,0.64
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,0.72,0.50,0.52,0.44,0.42,0.40,0.46,0.48,0.42,0.50,0.58,0.56,0.54,0.48,0.56,0.60,0.58,0.66,0.60

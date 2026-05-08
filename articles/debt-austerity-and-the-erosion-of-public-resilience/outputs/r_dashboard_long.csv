@@ -1,0 +1,49 @@
+system_id,system_name,region,fiscal_context,metric,value
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,debt_service_pressure,1.4137931034482756
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,austerity_intensity,0.6704
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,public_resilience_capacity,0.349
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,fiscal_resilience_risk,3.332111023936739
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,deferred_risk_burden,0.7841599999999997
+DAR001,High debt service climate-vulnerable public system,Sub-Saharan Africa,climate_debt_trap,public_resilience_gap,3.767271023936739
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,debt_service_pressure,1.2580645161290323
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,austerity_intensity,0.596
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,public_resilience_capacity,0.38780000000000003
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,fiscal_resilience_risk,2.7349357917897144
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,deferred_risk_burden,0.7583999999999999
+DAR004,Small island debt and adaptation constraint,Small Islands,adaptation_finance_constraint,public_resilience_gap,3.1055357917897144
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,debt_service_pressure,1.0303030303030303
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,austerity_intensity,0.6736
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,public_resilience_capacity,0.358
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,fiscal_resilience_risk,2.549197942300207
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,deferred_risk_burden,0.7454400000000001
+DAR002,Austerity-stressed public health and care system,Latin America,service_cut_austerity,public_resilience_gap,2.9366379423002074
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,debt_service_pressure,0.9705882352941178
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,austerity_intensity,0.6012
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,public_resilience_capacity,0.39499999999999996
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,fiscal_resilience_risk,2.4271201949441505
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,deferred_risk_burden,0.6724800000000001
+DAR005,Social protection contraction under fiscal stress,South Asia,social_protection_cuts,public_resilience_gap,2.7046001949441507
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,debt_service_pressure,0.96875
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,austerity_intensity,0.6295999999999999
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,public_resilience_capacity,0.3746
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,fiscal_resilience_risk,2.315863220806433
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,deferred_risk_burden,0.68784
+DAR007,Local government transfer squeeze and service fragility,Middle East and North Africa,local_government_fiscal_squeeze,public_resilience_gap,2.629103220806433
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,debt_service_pressure,1.0285714285714287
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,austerity_intensity,0.5356
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,public_resilience_capacity,0.45120000000000005
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,fiscal_resilience_risk,2.063004929468967
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,deferred_risk_burden,0.5622400000000001
+DAR008,Commodity shock and debt rollover pressure,Latin America,commodity_debt_rollover,public_resilience_gap,2.174044929468967
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,debt_service_pressure,0.6585365853658537
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,austerity_intensity,0.5424
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,public_resilience_capacity,0.46759999999999996
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,fiscal_resilience_risk,1.5436361411033737
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,deferred_risk_burden,0.7369600000000001
+DAR003,Deferred infrastructure maintenance region,North America,maintenance_backlog,public_resilience_gap,1.8129961411033735
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,debt_service_pressure,0.34693877551020413
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,austerity_intensity,0.1996
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,public_resilience_capacity,0.735
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,fiscal_resilience_risk,0.5030434092798235
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,deferred_risk_burden,0
+DAR006,Resilience-investment oriented fiscal system,Europe,resilience_investment,public_resilience_gap,0
