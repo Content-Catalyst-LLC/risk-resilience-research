@@ -1,0 +1,11 @@
+node_id,city,neighborhood,production_type,crop_category,annual_output_kg,served_households,essential_demand_kg,water_liters_per_kg,energy_kwh_per_kg,land_area_m2,food_access_priority,local_distribution_share,waste_recapture_kg,shock_external_supply_loss_fraction
+UF001,Riverton,East Market,community_garden,mixed_vegetables,8200,240,52000,95,0.12,1600,high,0.85,1400,0.25
+UF002,Riverton,North Loop,rooftop_greenhouse,leafy_greens,18500,410,76000,42,1.80,900,medium,0.65,2100,0.25
+UF003,Riverton,South Works,hydroponic_warehouse,leafy_greens,62000,1200,210000,18,4.60,2200,high,0.72,3500,0.25
+UF004,Riverton,West School,school_garden,herbs_vegetables,2100,90,18000,110,0.10,520,high,0.95,600,0.25
+UF005,Harbor City,Dockside,peri_urban_farm,mixed_vegetables,145000,2600,420000,70,0.45,18500,medium,0.55,8800,0.30
+UF006,Harbor City,Old Mill,vertical_farm,leafy_greens,98000,1800,310000,12,6.20,1400,medium,0.50,2600,0.30
+UF007,Harbor City,Central Ward,community_garden,mixed_vegetables,5400,210,47000,100,0.08,1100,high,0.92,1250,0.30
+UF008,Lakemont,Greenline,vacant_lot_farm,root_vegetables,24000,520,94000,85,0.25,4200,high,0.80,3200,0.20
+UF009,Lakemont,University,rooftop_garden,herbs_vegetables,3900,130,26000,75,0.35,760,low,0.48,700,0.20
+UF010,Lakemont,East Clinic,institutional_greenhouse,leafy_greens,21000,560,88000,38,1.20,1050,high,0.88,1600,0.20
