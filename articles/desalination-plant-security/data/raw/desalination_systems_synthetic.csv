@@ -1,0 +1,8 @@
+city,region,plant,served_population,priority_demand_mld,normal_desal_output_mld,alternative_supply_mld,storage_reserve_mld,emergency_transfer_mld,system_losses_mld,outage_fraction,backup_power_fraction,recovery_days
+Ariya Coast,Arid Gulf,North Coast RO Plant,2400000,360,420,85,900,40,28,0.25,0.80,4
+Ariya Coast,Arid Gulf,Harbor RO Plant,2400000,360,210,85,900,40,28,0.60,0.65,10
+Maris Bay,Mediterranean Drylands,Maris Bay Desalination Facility,1100000,165,190,55,420,20,14,0.40,0.70,7
+San Cordova,Pacific Semi-Arid,San Cordova Seawater Plant,850000,128,150,70,300,25,11,0.50,0.60,8
+Perthshore,Indian Ocean Dry Belt,Southshore Desalination Plant,1750000,265,300,95,650,35,22,0.35,0.75,6
+Island South,Small Island State,Island South RO Facility,420000,63,75,10,120,5,5,0.70,0.45,12
+Delta Port,Coastal Delta,Delta Port Integrated Water Plant,3200000,480,360,210,1100,60,38,0.30,0.70,5
