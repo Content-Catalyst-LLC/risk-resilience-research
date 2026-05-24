@@ -1,0 +1,13 @@
+site_id,region,asset_type,population,asset_value_musd,land_elevation_m,protection_height_m,modeled_baseline_m,baseline_correction_m,sea_level_rise_scenario_m,tide_surge_m,uncertainty_margin_m
+A001,Delta North,housing,4200,320,1.25,0.20,0.00,0.30,0.45,0.55,0.10
+A002,Delta North,wastewater,0,180,1.80,0.40,0.00,0.30,0.45,0.70,0.15
+A003,Delta North,road,0,95,1.10,0.10,0.00,0.30,0.45,0.50,0.10
+B001,Harbor East,port,0,850,2.10,0.60,0.00,0.20,0.50,0.85,0.15
+B002,Harbor East,power,0,620,2.00,0.50,0.00,0.20,0.50,0.90,0.15
+B003,Harbor East,housing,6800,410,1.45,0.20,0.00,0.20,0.50,0.60,0.10
+C001,Island South,housing,3100,260,0.95,0.15,0.00,0.45,0.40,0.50,0.15
+C002,Island South,hospital,0,300,1.35,0.35,0.00,0.45,0.40,0.55,0.15
+C003,Island South,airport,0,720,1.60,0.40,0.00,0.45,0.40,0.70,0.20
+D001,Coastal Plain,housing,5200,375,1.70,0.25,0.00,0.25,0.55,0.65,0.15
+D002,Coastal Plain,industrial,0,500,1.95,0.45,0.00,0.25,0.55,0.75,0.15
+D003,Coastal Plain,rail,0,210,1.30,0.20,0.00,0.25,0.55,0.55,0.10
